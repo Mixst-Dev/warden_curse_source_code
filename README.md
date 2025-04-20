@@ -1,2 +1,10 @@
-# warden_curse_source_code
- This mod, Sekrio Warden Curse is a combat mod inspired by sekiro, developed in MCREATOR.
+# Sekiro - Warden Curse
+
+A Minecraft mod made with [MCreator](https://mcreator.net/).
+
+## 📂 Workspace Structure
+
+This repo includes:
+- MCreator workspace and generated source code
+- Includes Procedures, Variables.
+- Gradle project structure
