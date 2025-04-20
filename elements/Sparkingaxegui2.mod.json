@@ -1,0 +1,410 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 2,
+    "inventoryOffsetX": -1000,
+    "inventoryOffsetY": -1000,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "prostheticgui2.png",
+          "use1Xscale": false,
+          "x": 61,
+          "y": 15
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_type_combat_art_shadow_rush",
+          "text": {
+            "fixedValue": "Type: Prosthetic Tool. Sparking Axe"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 72,
+          "y": 25
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_se_cost",
+          "text": {
+            "fixedValue": "SE Cost: 2"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 74,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dmg_multipler",
+          "text": {
+            "fixedValue": "Dmg: x2.5"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 74,
+          "y": 125
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_unleashes_a_powerfull_thrust",
+          "text": {
+            "fixedValue": "A prosthetic axes that unleashes a"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 65
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_impale_your_opponent",
+          "text": {
+            "fixedValue": "heavy blow, on impact the sparking"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 75
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_description",
+          "text": {
+            "fixedValue": "Description:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 53
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but1",
+          "image": "but1.png",
+          "hoveredImage": "but1g.png",
+          "onClick": {
+            "name": "Setsparking1"
+          },
+          "displayCondition": {
+            "name": "Plock1"
+          },
+          "x": 94,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but2",
+          "image": "but2.png",
+          "hoveredImage": "but2g.png",
+          "onClick": {
+            "name": "Setsparking2"
+          },
+          "displayCondition": {
+            "name": "Plock2"
+          },
+          "x": 130,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but3",
+          "image": "but3.png",
+          "hoveredImage": "but3g.png",
+          "onClick": {
+            "name": "Setsparking3"
+          },
+          "displayCondition": {
+            "name": "Plock3"
+          },
+          "x": 166,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but4",
+          "image": "but4.png",
+          "hoveredImage": "but4g.png",
+          "onClick": {
+            "name": "Setsparking4"
+          },
+          "displayCondition": {
+            "name": "Plock4"
+          },
+          "x": 202,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but5",
+          "image": "but5.png",
+          "hoveredImage": "but5g.png",
+          "onClick": {
+            "name": "Setsparking5"
+          },
+          "displayCondition": {
+            "name": "Plock5"
+          },
+          "x": 238,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but6",
+          "image": "but6.png",
+          "hoveredImage": "but6g.png",
+          "onClick": {
+            "name": "Setsparking6"
+          },
+          "displayCondition": {
+            "name": "Plock6"
+          },
+          "x": 274,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but7",
+          "image": "but7.png",
+          "hoveredImage": "but7g.png",
+          "onClick": {
+            "name": "Setsparking7"
+          },
+          "displayCondition": {
+            "name": "Plock7"
+          },
+          "x": 310,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but1u.png",
+          "use1Xscale": false,
+          "x": 94,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but2u.png",
+          "use1Xscale": false,
+          "x": 130,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but3u.png",
+          "use1Xscale": false,
+          "x": 166,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but4u.png",
+          "use1Xscale": false,
+          "x": 202,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but5u.png",
+          "use1Xscale": false,
+          "x": 238,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but6u.png",
+          "use1Xscale": false,
+          "x": 274,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but7u.png",
+          "use1Xscale": false,
+          "x": 310,
+          "y": 164
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_to_cut_your_opponent",
+          "text": {
+            "fixedValue": "flames violently erupt, setting "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 84
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_shift_attack_slam_down_attac",
+          "text": {
+            "fixedValue": "Shift + P.K = Swipe + Slam"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 114
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_chaning_the_dmg_to_x315",
+          "text": {
+            "fixedValue": "Swipe damage: x1.7"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 123
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "sparkingaxe2.png",
+          "use1Xscale": false,
+          "x": 73,
+          "y": 51
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_your_opponent_on_fire",
+          "text": {
+            "fixedValue": "your opponent on fire"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 94
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pk_prosthetic_keybind",
+          "text": {
+            "fixedValue": "P.K = Prosthetic Keybind"
+          },
+          "color": {
+            "value": -52429,
+            "falpha": 0.0
+          },
+          "x": 72,
+          "y": 4
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_posture_damage_multiplyer_x3",
+          "text": {
+            "fixedValue": "Posture Damage Multiplyer: x3"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 132
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_additional_information",
+          "text": {
+            "fixedValue": "Additional Information:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 104
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

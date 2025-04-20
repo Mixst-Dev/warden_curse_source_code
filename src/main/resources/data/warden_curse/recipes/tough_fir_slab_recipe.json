@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "warden_curse:tough_fir_planks"
+    }
+  },
+  "result": {
+    "item": "warden_curse:tough_fir_slab",
+    "count": 6
+  }
+}

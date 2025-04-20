@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/mortalblade1",
+  "textures": {
+    "0": "warden_curse:block/mbladenormal",
+    "particle": "warden_curse:item/mbladenormal"
+  }
+}

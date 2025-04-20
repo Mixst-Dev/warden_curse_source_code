@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/prosthetic_glock",
+  "textures": {
+    "0": "warden_curse:block/catsi",
+    "particle": "warden_curse:item/sord"
+  }
+}

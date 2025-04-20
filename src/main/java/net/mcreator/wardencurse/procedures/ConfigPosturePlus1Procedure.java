@@ -1,0 +1,12 @@
+package net.mcreator.wardencurse.procedures;
+
+import net.minecraft.world.level.LevelAccessor;
+
+import net.mcreator.wardencurse.network.WardenCurseModVariables;
+
+public class ConfigPosturePlus1Procedure {
+	public static void execute(LevelAccessor world) {
+		WardenCurseModVariables.MapVariables.get(world).posture_multipler = WardenCurseModVariables.MapVariables.get(world).posture_multipler + 0.01;
+		WardenCurseModVariables.MapVariables.get(world).syncData(world);
+	}
+}

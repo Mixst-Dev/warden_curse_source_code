@@ -1,0 +1,15 @@
+{
+  "_fv": 60,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "NONE",
+    "keyBindingName": "Sekiro REGENRATE EMBLEMS",
+    "keyBindingCategoryKey": "sekiro",
+    "onKeyPressed": {
+      "name": "Regenstart"
+    },
+    "onKeyReleased": {
+      "name": "Regenend"
+    }
+  }
+}

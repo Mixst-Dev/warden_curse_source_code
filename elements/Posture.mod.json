@@ -1,0 +1,538 @@
+{
+  "_fv": 60,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "bar1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar1"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar2.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar2"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar3"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar4.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar4"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar5.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar5"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar6.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar6"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar7.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar7"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar8.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar8"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar9.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar9"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar10.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar10"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar11.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar11"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar12.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar12"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar13.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar13"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar14.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar14"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar15.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar15"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar16.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar16"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar17.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar17"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar18.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar18"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar19.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar19"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar20.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Pbar20"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 138,
+          "y": 173
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar1"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar2.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar2"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar3"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar4.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar4"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar5.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar5"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar6.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar6"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar7.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar7"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar8.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar8"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar9.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar9"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar10.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar10"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar11.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar11"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar12.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar12"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar13.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar13"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar14.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar14"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar15.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar15"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar16.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar16"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar17.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar17"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar18.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar18"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbar19.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Fbar19"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fbarowies.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Burnguishow"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 153,
+          "y": 150
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

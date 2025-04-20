@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "warden_curse:block/tough_fir_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "warden_curse:block/tough_fir_log"
+    },
+    "axis=z": {
+      "model": "warden_curse:block/tough_fir_log",
+      "x": 90
+    }
+  }
+}

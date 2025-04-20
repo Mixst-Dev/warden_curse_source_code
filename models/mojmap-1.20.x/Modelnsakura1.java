@@ -1,0 +1,45 @@
+// Made with Blockbench 4.9.4
+// Exported for Minecraft version 1.17 or later with Mojang mappings
+// Paste this class into your mod and generate all required imports
+
+public class Modelnsakura1<T extends Entity> extends EntityModel<T> {
+	// This layer location should be baked with EntityRendererProvider.Context in
+	// the entity renderer and passed into this model's constructor
+	public static final ModelLayerLocation LAYER_LOCATION = new ModelLayerLocation(
+			new ResourceLocation("modid", "nsakura1"), "main");
+	private final ModelPart head;
+
+	public Modelnsakura1(ModelPart root) {
+		this.head = root.getChild("head");
+	}
+
+	public static LayerDefinition createBodyLayer() {
+		MeshDefinition meshdefinition = new MeshDefinition();
+		PartDefinition partdefinition = meshdefinition.getRoot();
+
+		PartDefinition head = partdefinition.addOrReplaceChild("head", CubeListBuilder.create(),
+				PartPose.offset(0.0F, 24.0F, 0.0F));
+
+		PartDefinition sakura1 = head.addOrReplaceChild("sakura1", CubeListBuilder.create(),
+				PartPose.offset(0.0F, 0.0F, 9.0F));
+
+		PartDefinition cube_r1 = sakura1.addOrReplaceChild("cube_r1",
+				CubeListBuilder.create().texOffs(0, 0).addBox(1.0F, -55.5F, -59.0F, 0.0F, 142.0F, 142.0F,
+						new CubeDeformation(0.0F)),
+				PartPose.offsetAndRotation(-15.313F, -25.0367F, -41.0F, 0.1709F, 0.2093F, -0.6924F));
+
+		return LayerDefinition.create(meshdefinition, 512, 512);
+	}
+
+	@Override
+	public void setupAnim(T entity, float limbSwing, float limbSwingAmount, float ageInTicks, float netHeadYaw,
+			float headPitch) {
+
+	}
+
+	@Override
+	public void renderToBuffer(PoseStack poseStack, VertexConsumer vertexConsumer, int packedLight, int packedOverlay,
+			float red, float green, float blue, float alpha) {
+		head.render(poseStack, vertexConsumer, packedLight, packedOverlay, red, green, blue, alpha);
+	}
+}

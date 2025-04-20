@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/pellet",
+  "textures": {
+    "0": "warden_curse:block/texture",
+    "particle": "warden_curse:item/lilacunbrella2"
+  }
+}

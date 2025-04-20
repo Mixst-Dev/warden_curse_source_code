@@ -1,0 +1,395 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 2,
+    "inventoryOffsetX": -1000,
+    "inventoryOffsetY": -1000,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "prostheticgui2.png",
+          "use1Xscale": false,
+          "x": 61,
+          "y": 15
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_type_combat_art_shadow_rush",
+          "text": {
+            "fixedValue": "Type: Prosthetic Tool. Lazulite Axe"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 72,
+          "y": 25
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_se_cost",
+          "text": {
+            "fixedValue": "SE Cost: 2"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 74,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dmg_multipler",
+          "text": {
+            "fixedValue": "Dmg: x3"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 74,
+          "y": 125
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_unleashes_a_powerfull_thrust",
+          "text": {
+            "fixedValue": "This hefty axe unleashes a powerful"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 65
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_impale_your_opponent",
+          "text": {
+            "fixedValue": "cresent swipe with the favor of"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 75
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_description",
+          "text": {
+            "fixedValue": "Description:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 53
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but1",
+          "image": "but1.png",
+          "hoveredImage": "but1g.png",
+          "onClick": {
+            "name": "Lazuliteset1"
+          },
+          "displayCondition": {
+            "name": "Plock1"
+          },
+          "x": 94,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but2",
+          "image": "but2.png",
+          "hoveredImage": "but2g.png",
+          "onClick": {
+            "name": "Lazuliteset2"
+          },
+          "displayCondition": {
+            "name": "Plock2"
+          },
+          "x": 130,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but3",
+          "image": "but3.png",
+          "hoveredImage": "but3g.png",
+          "onClick": {
+            "name": "Lazuliteset3"
+          },
+          "displayCondition": {
+            "name": "Plock3"
+          },
+          "x": 166,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but4",
+          "image": "but4.png",
+          "hoveredImage": "but4g.png",
+          "onClick": {
+            "name": "Lazuliteset4"
+          },
+          "displayCondition": {
+            "name": "Plock4"
+          },
+          "x": 202,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but5",
+          "image": "but5.png",
+          "hoveredImage": "but5g.png",
+          "onClick": {
+            "name": "Lazuliteset5"
+          },
+          "displayCondition": {
+            "name": "Plock5"
+          },
+          "x": 238,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but6",
+          "image": "but6.png",
+          "hoveredImage": "but6g.png",
+          "onClick": {
+            "name": "Lazuliteset6"
+          },
+          "displayCondition": {
+            "name": "Plock6"
+          },
+          "x": 274,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but7",
+          "image": "but7.png",
+          "hoveredImage": "but7g.png",
+          "onClick": {
+            "name": "Lazuliteset7"
+          },
+          "displayCondition": {
+            "name": "Plock7"
+          },
+          "x": 310,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but1u.png",
+          "use1Xscale": false,
+          "x": 94,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but2u.png",
+          "use1Xscale": false,
+          "x": 130,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but3u.png",
+          "use1Xscale": false,
+          "x": 166,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but4u.png",
+          "use1Xscale": false,
+          "x": 202,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but5u.png",
+          "use1Xscale": false,
+          "x": 238,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but6u.png",
+          "use1Xscale": false,
+          "x": 274,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but7u.png",
+          "use1Xscale": false,
+          "x": 310,
+          "y": 164
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_to_cut_your_opponent",
+          "text": {
+            "fixedValue": "the Fountainhead Lapis Lazuli"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 85
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lazuliteaxe2.png",
+          "use1Xscale": false,
+          "x": 73,
+          "y": 51
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_shift_attack_slam_down_attac",
+          "text": {
+            "fixedValue": "Shift + P.K = Swipe + Slam"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 155,
+          "y": 99
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pk_prosthetic_keybind",
+          "text": {
+            "fixedValue": "P.K = Prosthetic Keybind"
+          },
+          "color": {
+            "value": -52429,
+            "falpha": 0.0
+          },
+          "x": 72,
+          "y": 3
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_swipe_x19_damage",
+          "text": {
+            "fixedValue": "Swipe: x1.9 Damage"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 155,
+          "y": 107
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_additional_information",
+          "text": {
+            "fixedValue": "Additional Information:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 155,
+          "y": 119
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_posture_damage_multiplyer_x3",
+          "text": {
+            "fixedValue": "Posture Damage Multiplyer: x3"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 155,
+          "y": 129
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

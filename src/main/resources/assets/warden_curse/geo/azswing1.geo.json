@@ -1,0 +1,24 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.azswing1",
+				"texture_width": 528,
+				"texture_height": 528,
+				"visible_bounds_width": 17,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [0, 15, 0],
+					"cubes": [
+						{"origin": [-66, 16, -66], "size": [132, 0, 132], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

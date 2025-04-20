@@ -1,0 +1,98 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.spiralcloudpassage",
+				"texture_width": 512,
+				"texture_height": 512,
+				"visible_bounds_width": 15,
+				"visible_bounds_height": 11,
+				"visible_bounds_offset": [0, 3.5, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "slash",
+					"parent": "head",
+					"pivot": [0, 26, 0]
+				},
+				{
+					"name": "slash1",
+					"parent": "slash",
+					"pivot": [0, 26, 0],
+					"cubes": [
+						{"origin": [-1, 43, -68], "size": [102, 0, 136], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "slash2",
+					"parent": "slash",
+					"pivot": [0, 26, 0],
+					"cubes": [
+						{"origin": [-1, 43, -68], "size": [102, 0, 136], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "slash3",
+					"parent": "slash",
+					"pivot": [0, 26, 0],
+					"cubes": [
+						{"origin": [-1, 43, -68], "size": [102, 0, 136], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "slash4",
+					"parent": "slash",
+					"pivot": [0, 26, 0],
+					"cubes": [
+						{"origin": [-1, 43, -68], "size": [102, 0, 136], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "slash5",
+					"parent": "slash",
+					"pivot": [0, 26, 0],
+					"cubes": [
+						{"origin": [-1, 43, -68], "size": [102, 0, 136], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "slash7",
+					"parent": "slash",
+					"pivot": [0, 26, 0],
+					"cubes": [
+						{"origin": [-1, 43, -68], "size": [102, 0, 136], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "slash8",
+					"parent": "slash",
+					"pivot": [0, 26, 0],
+					"cubes": [
+						{"origin": [-1, 43, -68], "size": [102, 0, 136], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "slash9",
+					"parent": "slash",
+					"pivot": [0, 42, 0],
+					"cubes": [
+						{"origin": [-1, 43, -68], "size": [102, 0, 136], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "slash10",
+					"parent": "slash",
+					"pivot": [0, 26, 0],
+					"cubes": [
+						{"origin": [-1, 43, -68], "size": [102, 0, 136], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

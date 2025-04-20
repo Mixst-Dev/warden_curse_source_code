@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "warden_curse:block/fir_top",
+    "up": "warden_curse:block/fir_top",
+    "north": "warden_curse:block/fir_log",
+    "east": "warden_curse:block/fir_log",
+    "south": "warden_curse:block/fir_log",
+    "west": "warden_curse:block/fir_log",
+    "particle": "warden_curse:block/fir_top"
+  },
+  "render_type": "solid"
+}

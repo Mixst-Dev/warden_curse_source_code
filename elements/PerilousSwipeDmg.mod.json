@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "damagetype",
+  "definition": {
+    "exhaustion": 0.1,
+    "scaling": "never",
+    "effects": "hurt",
+    "normalDeathMessage": "%1$s got slashed by a powerful swipe",
+    "itemDeathMessage": "%1$s got slashed by a powerful swipe",
+    "playerDeathMessage": "%1$s got slashed by a powerful swipe"
+  }
+}

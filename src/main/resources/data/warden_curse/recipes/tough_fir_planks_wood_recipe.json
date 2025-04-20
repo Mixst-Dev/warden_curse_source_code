@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "warden_curse:tough_fir_wood"
+    }
+  ],
+  "result": {
+    "item": "warden_curse:tough_fir_planks",
+    "count": 4
+  }
+}

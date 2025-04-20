@@ -1,0 +1,89 @@
+{
+  "has_precipitation": true,
+  "temperature": 0.05,
+  "downfall": 0.1,
+  "effects": {
+    "ambient_sound": "warden_curse:environment1",
+    "particle": {
+      "options": {
+        "type": "warden_curse:ashina_mountain"
+      },
+      "probability": 0.008
+    },
+    "foliage_color": -4073565,
+    "grass_color": -4796524,
+    "sky_color": -3416085,
+    "fog_color": -3416085,
+    "water_color": -12567727,
+    "water_fog_color": -14344141
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [
+      {
+        "type": "warden_curse:ashinasoldier",
+        "weight": 10,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "warden_curse:ashina_soldier_2",
+        "weight": 8,
+        "minCount": 1,
+        "maxCount": 3
+      }
+    ],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [
+      "minecraft:lake_lava_underground"
+    ],
+    [
+      "minecraft:amethyst_geode"
+    ],
+    [],
+    [],
+    [],
+    [
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_coal_lower",
+      "minecraft:ore_iron_upper",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_iron_small",
+      "minecraft:ore_gold",
+      "minecraft:ore_gold_lower",
+      "minecraft:ore_redstone",
+      "minecraft:ore_redstone_lower",
+      "minecraft:ore_diamond",
+      "minecraft:ore_diamond_large",
+      "minecraft:ore_diamond_buried",
+      "minecraft:ore_lapis",
+      "minecraft:ore_lapis_buried",
+      "minecraft:ore_copper",
+      "minecraft:underwater_magma"
+    ],
+    [],
+    [],
+    [
+      "minecraft:patch_large_fern"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.dragonflash1",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 12,
+				"visible_bounds_height": 9,
+				"visible_bounds_offset": [0, 3.5, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [0, -3, -99], "size": [0, 115, 115], "pivot": [0, 57.5, -41.5], "rotation": [2.38369, 2.47177, -2.61096], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "bone",
+					"parent": "head",
+					"pivot": [0, 52.5, -41.5],
+					"cubes": [
+						{"origin": [-1.75, -5, -99], "size": [0, 115, 115], "pivot": [0, 52.5, -41.5], "rotation": [-0.10912, 2.49762, -2.50238], "uv": [0, -115]},
+						{"origin": [1.75, -5, -99], "size": [0, 115, 115], "pivot": [0, 52.5, -41.5], "rotation": [-0.10912, -2.49762, 2.50238], "uv": [0, -115], "mirror": true}
+					]
+				}
+			]
+		}
+	]
+}

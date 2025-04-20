@@ -1,0 +1,133 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 2,
+    "height": 2,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "mikiri.png",
+          "use1Xscale": false,
+          "x": 59,
+          "y": 3
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_skill_mikiri_counter",
+          "text": {
+            "fixedValue": "Skill: Mikiri Counter"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 165,
+          "y": 14
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_skill_mikiri_counter1",
+          "text": {
+            "fixedValue": "Skill: Mikiri Counter"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 86,
+          "y": 107
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_allows_you_to_counter_a_thrust_a",
+          "text": {
+            "fixedValue": "Allows you to counter a thrust attack by stomping"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 86,
+          "y": 120
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_on_your_enemies_weapon",
+          "text": {
+            "fixedValue": "on your enemies weapon. Which causes your enemies"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 86,
+          "y": 129
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_posture_to_be_destroyed",
+          "text": {
+            "fixedValue": "posture to be destroyed"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 86,
+          "y": 139
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_only_applies_to_perilous_thrust",
+          "text": {
+            "fixedValue": "(Only applies to perilous thrust attacks)"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 86,
+          "y": 155
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_learn_skill",
+          "text": "Learn Skill",
+          "isUndecorated": false,
+          "width": 82,
+          "height": 20,
+          "x": 169,
+          "y": 208
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

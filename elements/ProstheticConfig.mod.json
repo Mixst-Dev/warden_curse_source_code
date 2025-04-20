@@ -1,0 +1,224 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 0,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "config4.png",
+          "use1Xscale": false,
+          "x": -1,
+          "y": 2
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_sekiro_config",
+          "text": {
+            "fixedValue": "Prosthetic Power"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 83
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_note_configs_change_globally_f",
+          "text": {
+            "fixedValue": "NOTE: configs change globally (for all players)"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 97,
+          "y": 228
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_this_changes_how_powerful_combat",
+          "text": {
+            "fixedValue": "This changes the power of  "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_arts_are_the_damages_are_shown",
+          "text": {
+            "fixedValue": "Prosthetic Tools , the damages "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 106
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_multiplyers_ie_x18_etc",
+          "text": {
+            "fixedValue": "are shown as multipliers"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 117
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_showcombatpower",
+          "text": {
+            "fixedValue": "",
+            "name": "ShowProstheticPower"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 140
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_reset",
+          "image": "a_reset.png",
+          "hoveredImage": "a_reset_hover.png",
+          "onClick": {
+            "name": "Resetprosthetic"
+          },
+          "x": 94,
+          "y": 99
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_minus_1",
+          "image": "a_minus_1.png",
+          "hoveredImage": "a_minus_1_hover.png",
+          "onClick": {
+            "name": "ConfigPMinus1"
+          },
+          "x": 72,
+          "y": 99
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_minus_01",
+          "image": "a_minus_01.png",
+          "hoveredImage": "a_minus_01_hover.png",
+          "onClick": {
+            "name": "ConfigPMinus01"
+          },
+          "x": 44,
+          "y": 99
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_plus_1",
+          "image": "a_plus_1.png",
+          "hoveredImage": "a_plus_1_hover.png",
+          "onClick": {
+            "name": "ConfigPPlus1"
+          },
+          "x": 136,
+          "y": 99
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_plus_01",
+          "image": "a_plus_01.png",
+          "hoveredImage": "a_plus_01_hover.png",
+          "onClick": {
+            "name": "ConfigPPlus01"
+          },
+          "x": 159,
+          "y": 99
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "a_prosthetic_power.png",
+          "use1Xscale": false,
+          "x": 42,
+          "y": 68
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_ie_x18_etc",
+          "text": {
+            "fixedValue": "(i.e. x1.8 etc)"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 128
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_back",
+          "image": "back.png",
+          "hoveredImage": "back_hover.png",
+          "onClick": {
+            "name": "Backpress"
+          },
+          "x": 13,
+          "y": 197
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

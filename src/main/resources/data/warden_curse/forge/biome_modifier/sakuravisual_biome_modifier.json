@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "warden_curse:sakuravisual",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

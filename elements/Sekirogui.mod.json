@@ -1,0 +1,699 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 41,
+    "height": 18,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 35,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "sekirogui4.png",
+          "use1Xscale": false,
+          "x": -5,
+          "y": 5
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Artallow"
+          },
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 30,
+          "y": 29
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Artallow"
+          },
+          "id": 2,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 30,
+          "y": 47
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Artallow"
+          },
+          "id": 3,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 30,
+          "y": 65
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Artallow"
+          },
+          "id": 4,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 30,
+          "y": 83
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Artallow"
+          },
+          "id": 5,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 30,
+          "y": 101
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Artallow"
+          },
+          "id": 6,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 30,
+          "y": 119
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Artallow"
+          },
+          "id": 7,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 30,
+          "y": 137
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Prosthetic"
+          },
+          "id": 8,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 380,
+          "y": 29
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Prosthetic"
+          },
+          "id": 9,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 380,
+          "y": 47
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Prosthetic"
+          },
+          "id": 10,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 380,
+          "y": 65
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Prosthetic"
+          },
+          "id": 11,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 380,
+          "y": 83
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Prosthetic"
+          },
+          "id": 12,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 380,
+          "y": 101
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Prosthetic"
+          },
+          "id": 13,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 380,
+          "y": 119
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false,
+            "name": "Prosthetic"
+          },
+          "id": 14,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 380,
+          "y": 137
+        }
+      },
+      {
+        "type": "entitymodel",
+        "data": {
+          "entityModel": {
+            "name": "Playershow"
+          },
+          "scale": 33,
+          "rotationX": 0,
+          "followMouseMovement": true,
+          "x": 204,
+          "y": 90
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_close",
+          "image": "close.png",
+          "hoveredImage": "closehover.png",
+          "onClick": {
+            "name": "Closegui"
+          },
+          "x": 192,
+          "y": 4
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross1",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear1"
+          },
+          "x": 17,
+          "y": 34
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross11",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear2"
+          },
+          "x": 17,
+          "y": 52
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross12",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear3"
+          },
+          "x": 17,
+          "y": 70
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross13",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear4"
+          },
+          "x": 17,
+          "y": 88
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross14",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear5"
+          },
+          "x": 17,
+          "y": 106
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross15",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear6"
+          },
+          "x": 17,
+          "y": 124
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross16",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear7"
+          },
+          "x": 17,
+          "y": 142
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross17",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear8"
+          },
+          "x": 403,
+          "y": 34
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross18",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear9"
+          },
+          "x": 403,
+          "y": 52
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross19",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear10"
+          },
+          "x": 403,
+          "y": 70
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross110",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear11"
+          },
+          "x": 403,
+          "y": 88
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross111",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear12"
+          },
+          "x": 403,
+          "y": 106
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross112",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear13"
+          },
+          "x": 403,
+          "y": 124
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cross113",
+          "image": "cross1.png",
+          "hoveredImage": "cross2.png",
+          "onClick": {
+            "name": "Clear14"
+          },
+          "x": 403,
+          "y": 142
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_spirit_1",
+          "text": {
+            "fixedValue": "",
+            "name": "Spirit1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 4,
+          "y": 202
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_select2",
+          "image": "select2.png",
+          "hoveredImage": "select1.png",
+          "onClick": {
+            "name": "Select1"
+          },
+          "x": 29,
+          "y": 28
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_select21",
+          "image": "select2.png",
+          "hoveredImage": "select1.png",
+          "onClick": {
+            "name": "Select2"
+          },
+          "x": 29,
+          "y": 46
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_select22",
+          "image": "select2.png",
+          "hoveredImage": "select1.png",
+          "onClick": {
+            "name": "Select3"
+          },
+          "x": 29,
+          "y": 64
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_select23",
+          "image": "select2.png",
+          "hoveredImage": "select1.png",
+          "onClick": {
+            "name": "Select4"
+          },
+          "x": 29,
+          "y": 82
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_select24",
+          "image": "select2.png",
+          "hoveredImage": "select1.png",
+          "onClick": {
+            "name": "Select5"
+          },
+          "x": 29,
+          "y": 100
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_select25",
+          "image": "select2.png",
+          "hoveredImage": "select1.png",
+          "onClick": {
+            "name": "Select6"
+          },
+          "x": 29,
+          "y": 118
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_select26",
+          "image": "select2.png",
+          "hoveredImage": "select1.png",
+          "onClick": {
+            "name": "Select7"
+          },
+          "x": 29,
+          "y": 136
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "select3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ConditionSelect1"
+          },
+          "x": 28,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "select3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ConditionSelect2"
+          },
+          "x": 28,
+          "y": 46
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "select3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ConditionSelect3"
+          },
+          "x": 28,
+          "y": 63
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "select3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ConditionSelect4"
+          },
+          "x": 28,
+          "y": 82
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "select3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ConditionSelect5"
+          },
+          "x": 28,
+          "y": 99
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "select3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ConditionSelect6"
+          },
+          "x": 28,
+          "y": 118
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "select3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ConditionSelect7"
+          },
+          "x": 28,
+          "y": 136
+        }
+      }
+    ],
+    "onClosed": {
+      "name": "Resetselect"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

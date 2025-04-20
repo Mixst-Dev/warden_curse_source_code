@@ -1,0 +1,63 @@
+{
+  "parent": "warden_curse:custom/kusabimaru",
+  "textures": {
+    "4": "warden_curse:block/kusabimaru",
+    "particle": "warden_curse:item/mbladenormal"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "warden_curse:mortalblade_state": 0
+      },
+      "model": "warden_curse:item/mortalblade_0"
+    },
+    {
+      "predicate": {
+        "warden_curse:mortalblade_state": 1
+      },
+      "model": "warden_curse:item/mortalblade_1"
+    },
+    {
+      "predicate": {
+        "warden_curse:mortalblade_state": 2
+      },
+      "model": "warden_curse:item/mortalblade_2"
+    },
+    {
+      "predicate": {
+        "warden_curse:mortalblade_state": 3
+      },
+      "model": "warden_curse:item/mortalblade_3"
+    },
+    {
+      "predicate": {
+        "warden_curse:mortalblade_state": 4
+      },
+      "model": "warden_curse:item/mortalblade_4"
+    },
+    {
+      "predicate": {
+        "warden_curse:mortalblade_state": 5
+      },
+      "model": "warden_curse:item/mortalblade_5"
+    },
+    {
+      "predicate": {
+        "warden_curse:mortalblade_state": 6
+      },
+      "model": "warden_curse:item/mortalblade_6"
+    },
+    {
+      "predicate": {
+        "warden_curse:mortalblade_state": 7
+      },
+      "model": "warden_curse:item/mortalblade_7"
+    },
+    {
+      "predicate": {
+        "warden_curse:mortalblade_state": 8
+      },
+      "model": "warden_curse:item/mortalblade_8"
+    }
+  ]
+}

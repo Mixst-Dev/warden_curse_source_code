@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "warden_curse:block/newwoodtreated",
+    "up": "warden_curse:block/newwoodtreated",
+    "north": "warden_curse:block/firtiles2",
+    "east": "warden_curse:block/firtiles2",
+    "south": "warden_curse:block/firtiles2",
+    "west": "warden_curse:block/firtiles2",
+    "particle": "warden_curse:block/newwoodtreated"
+  },
+  "render_type": "solid"
+}

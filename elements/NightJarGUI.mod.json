@@ -1,0 +1,365 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 2,
+    "inventoryOffsetX": -1000,
+    "inventoryOffsetY": -1000,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "cagui.png",
+          "use1Xscale": false,
+          "x": 25,
+          "y": 3
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_type_combat_art_shadow_rush",
+          "text": {
+            "fixedValue": "Type: Combat Art. Nightjar Slash"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 106,
+          "y": 12
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_se_cost",
+          "text": {
+            "fixedValue": "SE Cost: 0"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 37,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dmg_multipler",
+          "text": {
+            "fixedValue": "Dmg: x1.07"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 37,
+          "y": 102
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_unleashes_a_powerfull_thrust",
+          "text": {
+            "fixedValue": "A really heavy slam that damages your enemy"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 117,
+          "y": 117
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_impale_your_opponent",
+          "text": {
+            "fixedValue": "Additionally causes excess posture damage"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 117,
+          "y": 127
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_description",
+          "text": {
+            "fixedValue": "Description:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 117,
+          "y": 106
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but1",
+          "image": "but1.png",
+          "hoveredImage": "but1g.png",
+          "onClick": {
+            "name": "Ichiset1"
+          },
+          "displayCondition": {
+            "name": "Lock1"
+          },
+          "x": 127,
+          "y": 208
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but2",
+          "image": "but2.png",
+          "hoveredImage": "but2g.png",
+          "onClick": {
+            "name": "Ichiset2"
+          },
+          "displayCondition": {
+            "name": "Lock2"
+          },
+          "x": 163,
+          "y": 208
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but3",
+          "image": "but3.png",
+          "hoveredImage": "but3g.png",
+          "onClick": {
+            "name": "Ichiset3"
+          },
+          "displayCondition": {
+            "name": "Lock3"
+          },
+          "x": 199,
+          "y": 208
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but4",
+          "image": "but4.png",
+          "hoveredImage": "but4g.png",
+          "onClick": {
+            "name": "Ichiset4"
+          },
+          "displayCondition": {
+            "name": "Lock4"
+          },
+          "x": 235,
+          "y": 208
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but5",
+          "image": "but5.png",
+          "hoveredImage": "but5g.png",
+          "onClick": {
+            "name": "Ichiset5"
+          },
+          "displayCondition": {
+            "name": "Lock5"
+          },
+          "x": 271,
+          "y": 208
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but6",
+          "image": "but6.png",
+          "hoveredImage": "but6g.png",
+          "onClick": {
+            "name": "Ichiset6"
+          },
+          "displayCondition": {
+            "name": "Lock6"
+          },
+          "x": 307,
+          "y": 208
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but7",
+          "image": "but7.png",
+          "hoveredImage": "but7g.png",
+          "onClick": {
+            "name": "Ichiset7"
+          },
+          "displayCondition": {
+            "name": "Lock7"
+          },
+          "x": 343,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but1u.png",
+          "use1Xscale": false,
+          "x": 127,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but2u.png",
+          "use1Xscale": false,
+          "x": 163,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but3u.png",
+          "use1Xscale": false,
+          "x": 199,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but4u.png",
+          "use1Xscale": false,
+          "x": 235,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but5u.png",
+          "use1Xscale": false,
+          "x": 271,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but6u.png",
+          "use1Xscale": false,
+          "x": 307,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but7u.png",
+          "use1Xscale": false,
+          "x": 343,
+          "y": 208
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_to_cut_your_opponent",
+          "text": {
+            "fixedValue": "whilst also recovering your posture."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 117,
+          "y": 138
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_notes",
+          "text": {
+            "fixedValue": "Notes:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 37,
+          "y": 123
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_bestowal",
+          "text": {
+            "fixedValue": "Bestowal:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 37,
+          "y": 133
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_x15",
+          "text": {
+            "fixedValue": "+ x1.5"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 37,
+          "y": 144
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "nightjar.png",
+          "use1Xscale": false,
+          "x": 41,
+          "y": 43
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_fv": 60,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "Blocks.BEDROCK"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "igniteFire": false,
+    "power": 3.0,
+    "damage": 0.0,
+    "knockback": 0,
+    "entityModel": "Default",
+    "customModelTexture": "ancientwarden.png",
+    "onHitsEntity": {
+      "name": "BulletProjectileHitsLivingEntity"
+    },
+    "onFlyingTick": {
+      "name": "BulletWhileProjectileFlyingTick"
+    }
+  }
+}

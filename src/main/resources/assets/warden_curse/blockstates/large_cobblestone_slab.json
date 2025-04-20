@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "warden_curse:block/large_cobblestone_slab"
+    },
+    "type=top": {
+      "model": "warden_curse:block/large_cobblestone_slab_top"
+    },
+    "type=double": {
+      "model": "warden_curse:block/large_cobblestone_slab_full"
+    }
+  }
+}

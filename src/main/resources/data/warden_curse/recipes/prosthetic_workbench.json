@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "c c"
+  ],
+  "key": {
+    "a": {
+      "item": "warden_curse:iron_scrap"
+    },
+    "b": {
+      "tag": "minecraft:anvil"
+    },
+    "c": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "warden_curse:prosthetic_table_block",
+    "count": 1
+  }
+}

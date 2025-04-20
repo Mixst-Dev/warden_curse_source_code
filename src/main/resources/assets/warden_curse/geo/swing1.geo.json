@@ -1,0 +1,31 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 6,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "swing1",
+					"parent": "head",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-33, 21, -51], "size": [66, 0, 52], "pivot": [0, 21, -25], "rotation": [-10.03742, 4.92385, 21.62962], "uv": [0, 0]},
+						{"origin": [-33, 21.5, -51], "size": [66, 0, 52], "pivot": [0, 21, -25], "rotation": [-10.03742, 4.92385, 21.62962], "uv": [0, 0]},
+						{"origin": [-33, 20.5, -51], "size": [66, 0, 52], "pivot": [0, 21, -25], "rotation": [-10.03742, 4.92385, 21.62962], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

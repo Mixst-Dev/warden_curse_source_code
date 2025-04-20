@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "warden_curse:tough_fir_tiles",
+    "warden_curse:targetboard",
+    "warden_curse:tung_fire_fence",
+    "warden_curse:tung_fir_stairs",
+    "warden_curse:fir_door",
+    "warden_curse:tough_fir_gate",
+    "warden_curse:tough_fir_slabs",
+    "warden_curse:tough_fir_planks_treated",
+    "warden_curse:tough_fir_slab",
+    "warden_curse:tough_fir_stairs",
+    "warden_curse:tough_fir_fence",
+    "warden_curse:tough_fir_fence_gate",
+    "warden_curse:tough_fir_planks",
+    "warden_curse:tough_fir_log",
+    "warden_curse:tough_fir_wood"
+  ]
+}

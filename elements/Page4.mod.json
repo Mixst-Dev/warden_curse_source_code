@@ -1,0 +1,321 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 1,
+    "height": 1,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_rightarrow",
+          "image": "rightarrow.png",
+          "hoveredImage": "rightarrowh.png",
+          "onClick": {
+            "name": "Openpage5"
+          },
+          "x": 391,
+          "y": 94
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_leftarrow",
+          "image": "leftarrow.png",
+          "hoveredImage": "leftarrowh.png",
+          "onClick": {
+            "name": "Openpage3"
+          },
+          "x": 19,
+          "y": 95
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "page4.png",
+          "use1Xscale": false,
+          "x": 35,
+          "y": 3
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_to_apply_any_prosthetic_tools",
+          "text": {
+            "fixedValue": "To apply any prosthetic tools"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 54,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_you_need_to_press_any_of_the",
+          "text": {
+            "fixedValue": "You need to press any of the"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 55,
+          "y": 125
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_numbers",
+          "text": {
+            "fixedValue": "numbers."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 55,
+          "y": 132
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_the_numbers_are_the_order_you",
+          "text": {
+            "fixedValue": "(The numbers are the order "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 54,
+          "y": 145
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_youve_set_them_in",
+          "text": {
+            "fixedValue": "you've set them in press Z"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 55,
+          "y": 153
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_to_view_the_order",
+          "text": {
+            "fixedValue": "to view the order)"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 55,
+          "y": 162
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "extras.png",
+          "use1Xscale": false,
+          "x": 226,
+          "y": 29
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_the_same_applies_to_combat_arts",
+          "text": {
+            "fixedValue": "The same applies to Combat "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 108
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_arts",
+          "text": {
+            "fixedValue": "Arts. Additional Tips:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 117
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_combat_artsprosthetics",
+          "text": {
+            "fixedValue": "Combat Arts/Prosthetics "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 129
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_require_spirit_emblems",
+          "text": {
+            "fixedValue": "require Spirit Emblems to"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 137
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_execute",
+          "text": {
+            "fixedValue": "execute."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 145
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_the_items_also_provide_info",
+          "text": {
+            "fixedValue": "The Items also provide info"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 157
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_and_stats_of_the_ar",
+          "text": {
+            "fixedValue": "and stats of the art/prosth"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 165
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_some_may_show",
+          "text": {
+            "fixedValue": "Some may show additional "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 177
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_attacks",
+          "text": {
+            "fixedValue": "attacks."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 185
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_7",
+          "text": {
+            "fixedValue": "7"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 126,
+          "y": 196
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_8",
+          "text": {
+            "fixedValue": "8"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 295,
+          "y": 196
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

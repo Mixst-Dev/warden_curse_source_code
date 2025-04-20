@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "warden_curse:blocks/tough_fir_gate",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "warden_curse:tough_fir_gate"
+        }
+      ]
+    }
+  ]
+}

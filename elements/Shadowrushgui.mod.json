@@ -1,0 +1,359 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 2,
+    "inventoryOffsetX": -1000,
+    "inventoryOffsetY": -1000,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "cagui.png",
+          "use1Xscale": false,
+          "x": 25,
+          "y": 5
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_type_combat_art_shadow_rush",
+          "text": {
+            "fixedValue": "Type: Combat Art. Shadow Rush"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 106,
+          "y": 14
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_se_cost",
+          "text": {
+            "fixedValue": "SE Cost: 2"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 37,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dmg_multipler",
+          "text": {
+            "fixedValue": "Dmg: x1.5"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 37,
+          "y": 102
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "shadowrush.png",
+          "use1Xscale": false,
+          "x": 41,
+          "y": 45
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_unleashes_a_powerfull_thrust",
+          "text": {
+            "fixedValue": "Unleashes a powerfull thrust to impale your"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 116,
+          "y": 118
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_description",
+          "text": {
+            "fixedValue": "Description:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 116,
+          "y": 107
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but1",
+          "image": "but1.png",
+          "hoveredImage": "but1g.png",
+          "onClick": {
+            "name": "Shadowset1"
+          },
+          "displayCondition": {
+            "name": "Lock1"
+          },
+          "x": 127,
+          "y": 210
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but2",
+          "image": "but2.png",
+          "hoveredImage": "but2g.png",
+          "onClick": {
+            "name": "Shadowset2"
+          },
+          "displayCondition": {
+            "name": "Lock2"
+          },
+          "x": 163,
+          "y": 210
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but3",
+          "image": "but3.png",
+          "hoveredImage": "but3g.png",
+          "onClick": {
+            "name": "Shadowset3"
+          },
+          "displayCondition": {
+            "name": "Lock3"
+          },
+          "x": 199,
+          "y": 210
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but4",
+          "image": "but4.png",
+          "hoveredImage": "but4g.png",
+          "onClick": {
+            "name": "Shadowset4"
+          },
+          "displayCondition": {
+            "name": "Lock4"
+          },
+          "x": 235,
+          "y": 210
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but5",
+          "image": "but5.png",
+          "hoveredImage": "but5g.png",
+          "onClick": {
+            "name": "Shadowset5"
+          },
+          "displayCondition": {
+            "name": "Lock5"
+          },
+          "x": 271,
+          "y": 210
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but6",
+          "image": "but6.png",
+          "hoveredImage": "but6g.png",
+          "onClick": {
+            "name": "Shadowset6"
+          },
+          "displayCondition": {
+            "name": "Lock6"
+          },
+          "x": 307,
+          "y": 210
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but7",
+          "image": "but7.png",
+          "hoveredImage": "but7g.png",
+          "onClick": {
+            "name": "Shadowset7"
+          },
+          "displayCondition": {
+            "name": "Lock7"
+          },
+          "x": 343,
+          "y": 210
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but1u.png",
+          "use1Xscale": false,
+          "x": 127,
+          "y": 210
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but2u.png",
+          "use1Xscale": false,
+          "x": 163,
+          "y": 210
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but3u.png",
+          "use1Xscale": false,
+          "x": 199,
+          "y": 210
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but4u.png",
+          "use1Xscale": false,
+          "x": 235,
+          "y": 210
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but5u.png",
+          "use1Xscale": false,
+          "x": 271,
+          "y": 210
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but6u.png",
+          "use1Xscale": false,
+          "x": 307,
+          "y": 210
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but7u.png",
+          "use1Xscale": false,
+          "x": 343,
+          "y": 210
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_enemies",
+          "text": {
+            "fixedValue": "enemies, especially if they're guarding"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 116,
+          "y": 128
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bshadowrush.png",
+          "use1Xscale": false,
+          "x": 109,
+          "y": 35
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_notes",
+          "text": {
+            "fixedValue": "Notes:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 36,
+          "y": 121
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_bestowal",
+          "text": {
+            "fixedValue": "Bestowal:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 36,
+          "y": 134
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_x075",
+          "text": {
+            "fixedValue": "+ x0.75"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 37,
+          "y": 144
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

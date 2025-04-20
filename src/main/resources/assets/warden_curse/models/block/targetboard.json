@@ -1,0 +1,9 @@
+{
+  "parent": "warden_curse:custom/targetboard1",
+  "textures": {
+    "all": "warden_curse:block/newwoodtreated",
+    "particle": "warden_curse:block/newwoodtreated",
+    "0": "warden_curse:block/target1"
+  },
+  "render_type": "cutout"
+}

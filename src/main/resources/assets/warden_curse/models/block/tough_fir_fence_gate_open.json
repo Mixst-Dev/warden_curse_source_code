@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate_open",
+  "textures": {
+    "texture": "warden_curse:block/newwood"
+  },
+  "render_type": "solid"
+}

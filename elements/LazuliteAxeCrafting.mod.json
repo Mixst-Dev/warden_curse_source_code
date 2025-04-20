@@ -1,0 +1,447 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 2,
+    "height": 2,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "a_p_t.png",
+          "use1Xscale": false,
+          "x": 1,
+          "y": 4
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "shinobifirec2.png",
+          "use1Xscale": true,
+          "x": 21,
+          "y": 38
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "longspark2.png",
+          "use1Xscale": true,
+          "x": 80,
+          "y": 38
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "purplefume2.png",
+          "use1Xscale": true,
+          "x": 139,
+          "y": 38
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "sparkingaxe2.png",
+          "use1Xscale": true,
+          "x": 80,
+          "y": 155
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lazuliteaxe2.png",
+          "use1Xscale": true,
+          "x": 139,
+          "y": 155
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "firevent3gui.png",
+          "use1Xscale": true,
+          "x": 21,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lazulitevent2.png",
+          "use1Xscale": true,
+          "x": 80,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cursedvent2.png",
+          "use1Xscale": true,
+          "x": 139,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "spear2gui.png",
+          "use1Xscale": true,
+          "x": 21,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "leapingspear2.png",
+          "use1Xscale": true,
+          "x": 80,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "shurikensgauge2.png",
+          "use1Xscale": true,
+          "x": 21,
+          "y": 194
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lazushuriken.png",
+          "use1Xscale": true,
+          "x": 80,
+          "y": 194
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_p_tool",
+          "image": "p_tool.png",
+          "hoveredImage": "p_tool_hover.png",
+          "onClick": {
+            "name": "OpenFirecracker"
+          },
+          "x": 19,
+          "y": 36
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_p_tool1",
+          "image": "p_tool.png",
+          "hoveredImage": "p_tool_hover.png",
+          "onClick": {
+            "name": "OpenLongspark"
+          },
+          "x": 78,
+          "y": 36
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_p_tool2",
+          "image": "p_tool.png",
+          "hoveredImage": "p_tool_hover.png",
+          "onClick": {
+            "name": "OpenPurpleFume"
+          },
+          "x": 137,
+          "y": 36
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_p_tool3",
+          "image": "p_tool.png",
+          "hoveredImage": "p_tool_hover.png",
+          "onClick": {
+            "name": "OpenFlameVent"
+          },
+          "x": 19,
+          "y": 75
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_p_tool4",
+          "image": "p_tool.png",
+          "hoveredImage": "p_tool_hover.png",
+          "x": 78,
+          "y": 75
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_p_tool5",
+          "image": "p_tool.png",
+          "hoveredImage": "p_tool_hover.png",
+          "x": 137,
+          "y": 75
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_p_tool6",
+          "image": "p_tool.png",
+          "hoveredImage": "p_tool_hover.png",
+          "onClick": {
+            "name": "OpenSparkingAxeCrafter"
+          },
+          "x": 78,
+          "y": 153
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_p_tool7",
+          "image": "p_tool.png",
+          "hoveredImage": "p_tool_hover.png",
+          "onClick": {
+            "name": "OpenLazuliteCrafting"
+          },
+          "x": 137,
+          "y": 153
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_p_tool8",
+          "image": "p_tool.png",
+          "hoveredImage": "p_tool_hover.png",
+          "x": 19,
+          "y": 192
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_p_tool9",
+          "image": "p_tool.png",
+          "hoveredImage": "p_tool_hover.png",
+          "x": 78,
+          "y": 192
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_p_tool10",
+          "image": "p_tool.png",
+          "hoveredImage": "p_tool_hover.png",
+          "onClick": {
+            "name": "OpenLoadedSpearCrafter"
+          },
+          "x": 19,
+          "y": 114
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_p_tool11",
+          "image": "p_tool.png",
+          "hoveredImage": "p_tool_hover.png",
+          "onClick": {
+            "name": "OpenLeapingFlame"
+          },
+          "x": 78,
+          "y": 114
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "loaded_axe.png",
+          "use1Xscale": true,
+          "x": 20,
+          "y": 154
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_p_tool12",
+          "image": "p_tool.png",
+          "hoveredImage": "p_tool_hover.png",
+          "onClick": {
+            "name": "OpenLoadedAxeCrafter"
+          },
+          "x": 19,
+          "y": 153
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_prosthetic_table",
+          "text": {
+            "fixedValue": "Prosthetic Table"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 168,
+          "y": 8
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_prosthetic_loaded_axe",
+          "text": {
+            "fixedValue": "Tool: Lazulite Axe"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 311,
+          "y": 105
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_x5_iron_scraps",
+          "text": {
+            "fixedValue": "x10 Adamantite Scrp"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 310,
+          "y": 130
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_x2_wood_planks",
+          "text": {
+            "fixedValue": "x3 Azure Lazulite"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 310,
+          "y": 143
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_craft",
+          "image": "craft.png",
+          "hoveredImage": "craft_h.png",
+          "onClick": {
+            "name": "CraftLazuliteAxe"
+          },
+          "x": 311,
+          "y": 198
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_x1_axe_of_monkey",
+          "text": {
+            "fixedValue": "x1 Sparking Axe"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 310,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lazuliteaxe2.png",
+          "use1Xscale": false,
+          "x": 328,
+          "y": 35
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_x2_fulimated_merc",
+          "text": {
+            "fixedValue": "x2 Fulimated Merc"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 310,
+          "y": 156
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_x2_prosthetic",
+          "text": {
+            "fixedValue": "x2 Prosthetic"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 310,
+          "y": 169
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_mechanism",
+          "text": {
+            "fixedValue": "Mechanism"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 326,
+          "y": 179
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

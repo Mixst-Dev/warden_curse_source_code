@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "warden_curse:block/metalic_frame"
+    },
+    "facing=east": {
+      "model": "warden_curse:block/metalic_frame",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "warden_curse:block/metalic_frame",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "warden_curse:block/metalic_frame",
+      "y": 270
+    }
+  }
+}

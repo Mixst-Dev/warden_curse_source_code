@@ -1,0 +1,380 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 2,
+    "inventoryOffsetX": -1000,
+    "inventoryOffsetY": -1000,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "prostheticgui2.png",
+          "use1Xscale": false,
+          "x": 61,
+          "y": 15
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_type_combat_art_shadow_rush",
+          "text": {
+            "fixedValue": "Type: Prosthetic Tool. Leaping Fire"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 72,
+          "y": 25
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_se_cost",
+          "text": {
+            "fixedValue": "SE Cost: 2"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 74,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_unleashes_a_powerfull_thrust",
+          "text": {
+            "fixedValue": "Unleash a long-ranged thrust attacks"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 65
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_impale_your_opponent",
+          "text": {
+            "fixedValue": "on your opponents whilst setting"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 75
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_description",
+          "text": {
+            "fixedValue": "Description:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 53
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but1",
+          "image": "but1.png",
+          "hoveredImage": "but1g.png",
+          "onClick": {
+            "name": "Setfspear1"
+          },
+          "displayCondition": {
+            "name": "Plock1"
+          },
+          "x": 94,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but2",
+          "image": "but2.png",
+          "hoveredImage": "but2g.png",
+          "onClick": {
+            "name": "Setfspear2"
+          },
+          "displayCondition": {
+            "name": "Plock2"
+          },
+          "x": 130,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but3",
+          "image": "but3.png",
+          "hoveredImage": "but3g.png",
+          "onClick": {
+            "name": "Setfspear3"
+          },
+          "displayCondition": {
+            "name": "Plock3"
+          },
+          "x": 166,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but4",
+          "image": "but4.png",
+          "hoveredImage": "but4g.png",
+          "onClick": {
+            "name": "Setfspear4"
+          },
+          "displayCondition": {
+            "name": "Plock4"
+          },
+          "x": 202,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but5",
+          "image": "but5.png",
+          "hoveredImage": "but5g.png",
+          "onClick": {
+            "name": "Setfspear5"
+          },
+          "displayCondition": {
+            "name": "Plock5"
+          },
+          "x": 238,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but6",
+          "image": "but6.png",
+          "hoveredImage": "but6g.png",
+          "onClick": {
+            "name": "Setfspear6"
+          },
+          "displayCondition": {
+            "name": "Plock6"
+          },
+          "x": 274,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_but7",
+          "image": "but7.png",
+          "hoveredImage": "but7g.png",
+          "onClick": {
+            "name": "Setfspear7"
+          },
+          "displayCondition": {
+            "name": "Plock7"
+          },
+          "x": 310,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but1u.png",
+          "use1Xscale": false,
+          "x": 94,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but2u.png",
+          "use1Xscale": false,
+          "x": 130,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but3u.png",
+          "use1Xscale": false,
+          "x": 166,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but4u.png",
+          "use1Xscale": false,
+          "x": 202,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but5u.png",
+          "use1Xscale": false,
+          "x": 238,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but6u.png",
+          "use1Xscale": false,
+          "x": 274,
+          "y": 164
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "but7u.png",
+          "use1Xscale": false,
+          "x": 310,
+          "y": 164
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_shift_attack_slam_down_attac",
+          "text": {
+            "fixedValue": "Shift + Attack = Swipe attack"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 111
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_chaning_the_dmg_to_x315",
+          "text": {
+            "fixedValue": "changing the dmg to: x1.9"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 121
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_them_on_fire_dmg_x25",
+          "text": {
+            "fixedValue": "them on fire. (Dmg: x2)"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 85
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "leapingspear2.png",
+          "use1Xscale": false,
+          "x": 73,
+          "y": 51
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pkey_prosthetic_keybind",
+          "text": {
+            "fixedValue": "P.Key = Prosthetic Keybind"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "x": 145,
+          "y": 6
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pkey_again_pulls_enemies",
+          "text": {
+            "fixedValue": "P.Key Again: Pulls Enemies"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 155,
+          "y": 95
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_x17_damage",
+          "text": {
+            "fixedValue": "(x1.7 Damage)"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 131
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

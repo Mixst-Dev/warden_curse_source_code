@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/loaded_axe",
+  "textures": {
+    "1": "warden_curse:block/loaded_axe",
+    "particle": "warden_curse:item/axe"
+  }
+}

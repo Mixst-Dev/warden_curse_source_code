@@ -1,0 +1,118 @@
+
+/*
+ *	MCreator note: This file will be REGENERATED on each build.
+ */
+package net.mcreator.wardencurse.init;
+
+import net.minecraftforge.registries.RegistryObject;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.common.extensions.IForgeMenuType;
+
+import net.minecraft.world.inventory.MenuType;
+
+import net.mcreator.wardencurse.world.inventory.WhirlwindguiMenu;
+import net.mcreator.wardencurse.world.inventory.Spiralcoudpassagegui2Menu;
+import net.mcreator.wardencurse.world.inventory.Sparkingaxegui2Menu;
+import net.mcreator.wardencurse.world.inventory.SparkingAxeCraftingMenu;
+import net.mcreator.wardencurse.world.inventory.ShurikenGuiMenu;
+import net.mcreator.wardencurse.world.inventory.ShadowrushguiMenu;
+import net.mcreator.wardencurse.world.inventory.SekiroguiMenu;
+import net.mcreator.wardencurse.world.inventory.Sakuradancegui2Menu;
+import net.mcreator.wardencurse.world.inventory.RessurectionOverlayMenu;
+import net.mcreator.wardencurse.world.inventory.PurpleGUIMenu;
+import net.mcreator.wardencurse.world.inventory.PurpleFumeCraftingGUIMenu;
+import net.mcreator.wardencurse.world.inventory.ProstheticTableMenu;
+import net.mcreator.wardencurse.world.inventory.ProstheticConfigMenu;
+import net.mcreator.wardencurse.world.inventory.PostureConfigGUIMenu;
+import net.mcreator.wardencurse.world.inventory.Page5Menu;
+import net.mcreator.wardencurse.world.inventory.Page4Menu;
+import net.mcreator.wardencurse.world.inventory.Page3Menu;
+import net.mcreator.wardencurse.world.inventory.OneMindGUIMenu;
+import net.mcreator.wardencurse.world.inventory.NightJarGUIMenu;
+import net.mcreator.wardencurse.world.inventory.Mortaldrawgui2Menu;
+import net.mcreator.wardencurse.world.inventory.MistRavenGUIMenu;
+import net.mcreator.wardencurse.world.inventory.MikiriGUIMenu;
+import net.mcreator.wardencurse.world.inventory.LongsparkCraftingGUIMenu;
+import net.mcreator.wardencurse.world.inventory.LongSparkGUIMenu;
+import net.mcreator.wardencurse.world.inventory.LoadedspearguiMenu;
+import net.mcreator.wardencurse.world.inventory.LoadedSpearCraftingMenu;
+import net.mcreator.wardencurse.world.inventory.LoadedAxeGUIMenu;
+import net.mcreator.wardencurse.world.inventory.LoadedAxeCraftingMenu;
+import net.mcreator.wardencurse.world.inventory.LeapingfireguiMenu;
+import net.mcreator.wardencurse.world.inventory.LeapingFireCraftingMenu;
+import net.mcreator.wardencurse.world.inventory.LazuliteshurikenguiMenu;
+import net.mcreator.wardencurse.world.inventory.Lazuliteaxegui2Menu;
+import net.mcreator.wardencurse.world.inventory.LazuliteVentGUIMenu;
+import net.mcreator.wardencurse.world.inventory.LazuliteAxeCraftingMenu;
+import net.mcreator.wardencurse.world.inventory.IchimonjiGUIMenu;
+import net.mcreator.wardencurse.world.inventory.Guardpage2Menu;
+import net.mcreator.wardencurse.world.inventory.GlockGUIMenu;
+import net.mcreator.wardencurse.world.inventory.GameplayConfigMenu;
+import net.mcreator.wardencurse.world.inventory.FloatingPassageGUIMenu;
+import net.mcreator.wardencurse.world.inventory.FlameVentCraftGUIMenu;
+import net.mcreator.wardencurse.world.inventory.FireventGUIMenu;
+import net.mcreator.wardencurse.world.inventory.FirecrackerGUIMenu;
+import net.mcreator.wardencurse.world.inventory.FirecrackerCraftingGUIMenu;
+import net.mcreator.wardencurse.world.inventory.EmblemConfigGUIMenu;
+import net.mcreator.wardencurse.world.inventory.Dragonflashgui2Menu;
+import net.mcreator.wardencurse.world.inventory.CursedVentGUIMenu;
+import net.mcreator.wardencurse.world.inventory.ConfigMenu;
+import net.mcreator.wardencurse.world.inventory.CombatArtConfigMenu;
+import net.mcreator.wardencurse.world.inventory.BookfrontpageMenu;
+import net.mcreator.wardencurse.world.inventory.Ashinacrossgui2Menu;
+import net.mcreator.wardencurse.WardenCurseMod;
+
+public class WardenCurseModMenus {
+	public static final DeferredRegister<MenuType<?>> REGISTRY = DeferredRegister.create(ForgeRegistries.MENU_TYPES, WardenCurseMod.MODID);
+	public static final RegistryObject<MenuType<SekiroguiMenu>> SEKIROGUI = REGISTRY.register("sekirogui", () -> IForgeMenuType.create(SekiroguiMenu::new));
+	public static final RegistryObject<MenuType<ShadowrushguiMenu>> SHADOWRUSHGUI = REGISTRY.register("shadowrushgui", () -> IForgeMenuType.create(ShadowrushguiMenu::new));
+	public static final RegistryObject<MenuType<Ashinacrossgui2Menu>> ASHINACROSSGUI_2 = REGISTRY.register("ashinacrossgui_2", () -> IForgeMenuType.create(Ashinacrossgui2Menu::new));
+	public static final RegistryObject<MenuType<Sakuradancegui2Menu>> SAKURADANCEGUI_2 = REGISTRY.register("sakuradancegui_2", () -> IForgeMenuType.create(Sakuradancegui2Menu::new));
+	public static final RegistryObject<MenuType<Spiralcoudpassagegui2Menu>> SPIRALCOUDPASSAGEGUI_2 = REGISTRY.register("spiralcoudpassagegui_2", () -> IForgeMenuType.create(Spiralcoudpassagegui2Menu::new));
+	public static final RegistryObject<MenuType<Dragonflashgui2Menu>> DRAGONFLASHGUI_2 = REGISTRY.register("dragonflashgui_2", () -> IForgeMenuType.create(Dragonflashgui2Menu::new));
+	public static final RegistryObject<MenuType<Mortaldrawgui2Menu>> MORTALDRAWGUI_2 = REGISTRY.register("mortaldrawgui_2", () -> IForgeMenuType.create(Mortaldrawgui2Menu::new));
+	public static final RegistryObject<MenuType<Lazuliteaxegui2Menu>> LAZULITEAXEGUI_2 = REGISTRY.register("lazuliteaxegui_2", () -> IForgeMenuType.create(Lazuliteaxegui2Menu::new));
+	public static final RegistryObject<MenuType<Sparkingaxegui2Menu>> SPARKINGAXEGUI_2 = REGISTRY.register("sparkingaxegui_2", () -> IForgeMenuType.create(Sparkingaxegui2Menu::new));
+	public static final RegistryObject<MenuType<LoadedspearguiMenu>> LOADEDSPEARGUI = REGISTRY.register("loadedspeargui", () -> IForgeMenuType.create(LoadedspearguiMenu::new));
+	public static final RegistryObject<MenuType<LeapingfireguiMenu>> LEAPINGFIREGUI = REGISTRY.register("leapingfiregui", () -> IForgeMenuType.create(LeapingfireguiMenu::new));
+	public static final RegistryObject<MenuType<BookfrontpageMenu>> BOOKFRONTPAGE = REGISTRY.register("bookfrontpage", () -> IForgeMenuType.create(BookfrontpageMenu::new));
+	public static final RegistryObject<MenuType<Guardpage2Menu>> GUARDPAGE_2 = REGISTRY.register("guardpage_2", () -> IForgeMenuType.create(Guardpage2Menu::new));
+	public static final RegistryObject<MenuType<Page3Menu>> PAGE_3 = REGISTRY.register("page_3", () -> IForgeMenuType.create(Page3Menu::new));
+	public static final RegistryObject<MenuType<Page4Menu>> PAGE_4 = REGISTRY.register("page_4", () -> IForgeMenuType.create(Page4Menu::new));
+	public static final RegistryObject<MenuType<Page5Menu>> PAGE_5 = REGISTRY.register("page_5", () -> IForgeMenuType.create(Page5Menu::new));
+	public static final RegistryObject<MenuType<FireventGUIMenu>> FIREVENT_GUI = REGISTRY.register("firevent_gui", () -> IForgeMenuType.create(FireventGUIMenu::new));
+	public static final RegistryObject<MenuType<LazuliteVentGUIMenu>> LAZULITE_VENT_GUI = REGISTRY.register("lazulite_vent_gui", () -> IForgeMenuType.create(LazuliteVentGUIMenu::new));
+	public static final RegistryObject<MenuType<CursedVentGUIMenu>> CURSED_VENT_GUI = REGISTRY.register("cursed_vent_gui", () -> IForgeMenuType.create(CursedVentGUIMenu::new));
+	public static final RegistryObject<MenuType<WhirlwindguiMenu>> WHIRLWINDGUI = REGISTRY.register("whirlwindgui", () -> IForgeMenuType.create(WhirlwindguiMenu::new));
+	public static final RegistryObject<MenuType<ConfigMenu>> CONFIG = REGISTRY.register("config", () -> IForgeMenuType.create(ConfigMenu::new));
+	public static final RegistryObject<MenuType<CombatArtConfigMenu>> COMBAT_ART_CONFIG = REGISTRY.register("combat_art_config", () -> IForgeMenuType.create(CombatArtConfigMenu::new));
+	public static final RegistryObject<MenuType<ProstheticConfigMenu>> PROSTHETIC_CONFIG = REGISTRY.register("prosthetic_config", () -> IForgeMenuType.create(ProstheticConfigMenu::new));
+	public static final RegistryObject<MenuType<PostureConfigGUIMenu>> POSTURE_CONFIG_GUI = REGISTRY.register("posture_config_gui", () -> IForgeMenuType.create(PostureConfigGUIMenu::new));
+	public static final RegistryObject<MenuType<EmblemConfigGUIMenu>> EMBLEM_CONFIG_GUI = REGISTRY.register("emblem_config_gui", () -> IForgeMenuType.create(EmblemConfigGUIMenu::new));
+	public static final RegistryObject<MenuType<ShurikenGuiMenu>> SHURIKEN_GUI = REGISTRY.register("shuriken_gui", () -> IForgeMenuType.create(ShurikenGuiMenu::new));
+	public static final RegistryObject<MenuType<LazuliteshurikenguiMenu>> LAZULITESHURIKENGUI = REGISTRY.register("lazuliteshurikengui", () -> IForgeMenuType.create(LazuliteshurikenguiMenu::new));
+	public static final RegistryObject<MenuType<OneMindGUIMenu>> ONE_MIND_GUI = REGISTRY.register("one_mind_gui", () -> IForgeMenuType.create(OneMindGUIMenu::new));
+	public static final RegistryObject<MenuType<GameplayConfigMenu>> GAMEPLAY_CONFIG = REGISTRY.register("gameplay_config", () -> IForgeMenuType.create(GameplayConfigMenu::new));
+	public static final RegistryObject<MenuType<FirecrackerGUIMenu>> FIRECRACKER_GUI = REGISTRY.register("firecracker_gui", () -> IForgeMenuType.create(FirecrackerGUIMenu::new));
+	public static final RegistryObject<MenuType<LongSparkGUIMenu>> LONG_SPARK_GUI = REGISTRY.register("long_spark_gui", () -> IForgeMenuType.create(LongSparkGUIMenu::new));
+	public static final RegistryObject<MenuType<PurpleGUIMenu>> PURPLE_GUI = REGISTRY.register("purple_gui", () -> IForgeMenuType.create(PurpleGUIMenu::new));
+	public static final RegistryObject<MenuType<MikiriGUIMenu>> MIKIRI_GUI = REGISTRY.register("mikiri_gui", () -> IForgeMenuType.create(MikiriGUIMenu::new));
+	public static final RegistryObject<MenuType<ProstheticTableMenu>> PROSTHETIC_TABLE = REGISTRY.register("prosthetic_table", () -> IForgeMenuType.create(ProstheticTableMenu::new));
+	public static final RegistryObject<MenuType<LoadedAxeGUIMenu>> LOADED_AXE_GUI = REGISTRY.register("loaded_axe_gui", () -> IForgeMenuType.create(LoadedAxeGUIMenu::new));
+	public static final RegistryObject<MenuType<GlockGUIMenu>> GLOCK_GUI = REGISTRY.register("glock_gui", () -> IForgeMenuType.create(GlockGUIMenu::new));
+	public static final RegistryObject<MenuType<LoadedAxeCraftingMenu>> LOADED_AXE_CRAFTING = REGISTRY.register("loaded_axe_crafting", () -> IForgeMenuType.create(LoadedAxeCraftingMenu::new));
+	public static final RegistryObject<MenuType<SparkingAxeCraftingMenu>> SPARKING_AXE_CRAFTING = REGISTRY.register("sparking_axe_crafting", () -> IForgeMenuType.create(SparkingAxeCraftingMenu::new));
+	public static final RegistryObject<MenuType<LazuliteAxeCraftingMenu>> LAZULITE_AXE_CRAFTING = REGISTRY.register("lazulite_axe_crafting", () -> IForgeMenuType.create(LazuliteAxeCraftingMenu::new));
+	public static final RegistryObject<MenuType<LoadedSpearCraftingMenu>> LOADED_SPEAR_CRAFTING = REGISTRY.register("loaded_spear_crafting", () -> IForgeMenuType.create(LoadedSpearCraftingMenu::new));
+	public static final RegistryObject<MenuType<LeapingFireCraftingMenu>> LEAPING_FIRE_CRAFTING = REGISTRY.register("leaping_fire_crafting", () -> IForgeMenuType.create(LeapingFireCraftingMenu::new));
+	public static final RegistryObject<MenuType<RessurectionOverlayMenu>> RESSURECTION_OVERLAY = REGISTRY.register("ressurection_overlay", () -> IForgeMenuType.create(RessurectionOverlayMenu::new));
+	public static final RegistryObject<MenuType<FloatingPassageGUIMenu>> FLOATING_PASSAGE_GUI = REGISTRY.register("floating_passage_gui", () -> IForgeMenuType.create(FloatingPassageGUIMenu::new));
+	public static final RegistryObject<MenuType<FirecrackerCraftingGUIMenu>> FIRECRACKER_CRAFTING_GUI = REGISTRY.register("firecracker_crafting_gui", () -> IForgeMenuType.create(FirecrackerCraftingGUIMenu::new));
+	public static final RegistryObject<MenuType<LongsparkCraftingGUIMenu>> LONGSPARK_CRAFTING_GUI = REGISTRY.register("longspark_crafting_gui", () -> IForgeMenuType.create(LongsparkCraftingGUIMenu::new));
+	public static final RegistryObject<MenuType<PurpleFumeCraftingGUIMenu>> PURPLE_FUME_CRAFTING_GUI = REGISTRY.register("purple_fume_crafting_gui", () -> IForgeMenuType.create(PurpleFumeCraftingGUIMenu::new));
+	public static final RegistryObject<MenuType<FlameVentCraftGUIMenu>> FLAME_VENT_CRAFT_GUI = REGISTRY.register("flame_vent_craft_gui", () -> IForgeMenuType.create(FlameVentCraftGUIMenu::new));
+	public static final RegistryObject<MenuType<IchimonjiGUIMenu>> ICHIMONJI_GUI = REGISTRY.register("ichimonji_gui", () -> IForgeMenuType.create(IchimonjiGUIMenu::new));
+	public static final RegistryObject<MenuType<MistRavenGUIMenu>> MIST_RAVEN_GUI = REGISTRY.register("mist_raven_gui", () -> IForgeMenuType.create(MistRavenGUIMenu::new));
+	public static final RegistryObject<MenuType<NightJarGUIMenu>> NIGHT_JAR_GUI = REGISTRY.register("night_jar_gui", () -> IForgeMenuType.create(NightJarGUIMenu::new));
+}

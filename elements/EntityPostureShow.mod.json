@@ -1,0 +1,408 @@
+{
+  "_fv": 60,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "abar1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar1"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar2.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar2"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar3"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar4.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar4"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar5.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar5"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar6.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar6"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar7.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar7"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar8.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar8"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar9.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar9"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar10.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar10"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar11.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar11"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar12.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar12"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar13.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar13"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar14.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar14"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar15.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar15"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar16.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar16"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar17.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar17"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar18.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar18"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar19.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar19"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar20.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar20"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar21.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar21"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar22.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar22"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar23.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar23"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar24.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar24"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar25.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar25"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar26.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar26"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar27.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar27"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar28.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar28"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar29.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar29"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abar30.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Abar30"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 107,
+          "y": 21
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

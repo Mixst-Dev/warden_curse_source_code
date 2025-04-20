@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "warden_curse:block/newwood",
+    "particle": "warden_curse:block/newwood"
+  },
+  "render_type": "solid"
+}

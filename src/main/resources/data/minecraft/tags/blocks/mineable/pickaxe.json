@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "warden_curse:metalic_frame",
+    "warden_curse:prosthetic_table_block",
+    "warden_curse:wall_damaged",
+    "warden_curse:wall_block_damaged",
+    "warden_curse:wall_block",
+    "warden_curse:tough_shale",
+    "warden_curse:large_cobblestone_slab",
+    "warden_curse:large_cobble_stone_stairs",
+    "warden_curse:large_cobblestone",
+    "warden_curse:magentite_ore",
+    "warden_curse:adamantite_ore"
+  ]
+}

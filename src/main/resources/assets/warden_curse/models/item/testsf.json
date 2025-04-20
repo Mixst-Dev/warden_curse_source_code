@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/firekusabimaru",
+  "textures": {
+    "5": "warden_curse:block/firekusa",
+    "particle": "warden_curse:item/sord"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 0,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "config4.png",
+          "use1Xscale": false,
+          "x": -1,
+          "y": 2
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_sekiro_config",
+          "text": {
+            "fixedValue": "Sekiro Config"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 82
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_later_updates_will_allow_you_to",
+          "text": {
+            "fixedValue": "Later updates will allow you to"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 228,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_peform_combat_arts_with",
+          "text": {
+            "fixedValue": "peform combat arts with any sword,"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 228,
+          "y": 106
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_toggle_guis_and_more",
+          "text": {
+            "fixedValue": "toggle GUIs, and more, you may"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 228,
+          "y": 117
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_suggest_config_ideas",
+          "text": {
+            "fixedValue": "suggest config ideas, and ill"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 228,
+          "y": 127
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_try_my_best_to_add_any",
+          "text": {
+            "fixedValue": "try my best to add any."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 228,
+          "y": 138
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_combat_power",
+          "image": "a_combat_power.png",
+          "hoveredImage": "a_combat_power_hover.png",
+          "onClick": {
+            "name": "Opencombatconfig"
+          },
+          "x": 11,
+          "y": 68
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_posture",
+          "image": "a_posture.png",
+          "hoveredImage": "a_posture_hover.png",
+          "onClick": {
+            "name": "Openposturegui"
+          },
+          "x": 11,
+          "y": 122
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_prosthetic_power",
+          "image": "a_prosthetic_power.png",
+          "hoveredImage": "a_prosthetic_power_hover.png",
+          "onClick": {
+            "name": "OpenProstheticConfig"
+          },
+          "x": 11,
+          "y": 95
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_spiritemblems",
+          "image": "a_spiritemblems.png",
+          "hoveredImage": "a_spiritemblems_hover.png",
+          "onClick": {
+            "name": "OpenSpiritGui"
+          },
+          "x": 11,
+          "y": 149
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_note_configs_change_globally_f",
+          "text": {
+            "fixedValue": "NOTE: configs change globally (for all players)"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 97,
+          "y": 228
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_gameplay",
+          "image": "a_gameplay.png",
+          "hoveredImage": "a_gameplay_hover.png",
+          "onClick": {
+            "name": "OpenGameplayGUI"
+          },
+          "x": 11,
+          "y": 176
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

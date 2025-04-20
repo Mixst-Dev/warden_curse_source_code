@@ -1,0 +1,31 @@
+{
+  "_fv": 60,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "but1g.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Testshits"
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 204,
+          "y": 41
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

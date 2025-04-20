@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "warden_curse:block/targetboard"
+    },
+    "facing=east": {
+      "model": "warden_curse:block/targetboard",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "warden_curse:block/targetboard",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "warden_curse:block/targetboard",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "warden_curse:block/targetboard",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "warden_curse:block/targetboard",
+      "x": 90
+    }
+  }
+}

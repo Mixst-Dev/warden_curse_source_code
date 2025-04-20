@@ -1,0 +1,9 @@
+{
+  "parent": "warden_curse:custom/metal_frame",
+  "textures": {
+    "all": "warden_curse:block/tough_shale",
+    "particle": "warden_curse:block/tough_shale",
+    "0": "warden_curse:block/metal_frame"
+  },
+  "render_type": "solid"
+}

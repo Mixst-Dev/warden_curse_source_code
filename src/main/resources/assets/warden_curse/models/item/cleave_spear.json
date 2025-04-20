@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/cleave_spear",
+  "textures": {
+    "1": "warden_curse:block/cleave_spear",
+    "particle": "warden_curse:item/spear"
+  }
+}

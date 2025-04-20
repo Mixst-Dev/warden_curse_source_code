@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    " a",
+    "bc"
+  ],
+  "key": {
+    "a": {
+      "item": "warden_curse:iron_scrap"
+    },
+    "b": {
+      "item": "minecraft:iron_nugget"
+    },
+    "c": {
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "result": {
+    "item": "warden_curse:mortalblade",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "warden_curse:shadowrushskill",
+    "warden_curse:sakuradanceskill",
+    "warden_curse:ashinacrossksill",
+    "warden_curse:dragonflashskill",
+    "warden_curse:spiralcloudpassageskill",
+    "warden_curse:onemindskill",
+    "warden_curse:mortaldrawskill",
+    "warden_curse:whirlwindslashskill",
+    "warden_curse:floating_passage",
+    "warden_curse:ichimonji",
+    "warden_curse:nightjar_slash"
+  ]
+}

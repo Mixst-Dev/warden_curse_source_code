@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "warden_curse:block/wall_damaged"
+    }
+  }
+}

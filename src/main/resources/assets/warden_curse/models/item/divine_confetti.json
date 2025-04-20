@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/divine_confetti",
+  "textures": {
+    "0": "warden_curse:block/divineconfetti",
+    "particle": "warden_curse:item/ui"
+  }
+}

@@ -1,0 +1,24 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.newswing1",
+				"texture_width": 512,
+				"texture_height": 512,
+				"visible_bounds_width": 6,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [0, 21, 0],
+					"cubes": [
+						{"origin": [-39, 22, -53], "size": [78, 0, 62], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

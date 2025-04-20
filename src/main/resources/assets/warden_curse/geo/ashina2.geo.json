@@ -1,0 +1,39 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.ashina2",
+				"texture_width": 512,
+				"texture_height": 512,
+				"visible_bounds_width": 9,
+				"visible_bounds_height": 8,
+				"visible_bounds_offset": [0, 2, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [0, 15, 0],
+					"rotation": [0, 90, 0]
+				},
+				{
+					"name": "slash1",
+					"parent": "head",
+					"pivot": [14, 14, 0],
+					"cubes": [
+						{"origin": [-15, 15, -54], "size": [72, 0, 108], "pivot": [21, 15, 0], "rotation": [0, 0, -180], "uv": [0, 108]}
+					]
+				},
+				{
+					"name": "slash2",
+					"parent": "head",
+					"pivot": [32, 21, 0],
+					"rotation": [-85, 0, 0],
+					"cubes": [
+						{"origin": [-9, 22, -54], "size": [84, 0, 108], "pivot": [32, 21, 0], "rotation": [2.5, 0, 0], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

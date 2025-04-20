@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "warden_curse:block/tough_shale_wall",
+    "up": "warden_curse:block/tough_shale_wall",
+    "north": "warden_curse:block/tough_shale_wall",
+    "east": "warden_curse:block/tough_shale_wall",
+    "south": "warden_curse:block/tough_shale_wall",
+    "west": "warden_curse:block/tough_shale_wall",
+    "particle": "warden_curse:block/tough_shale_wall"
+  },
+  "render_type": "solid"
+}

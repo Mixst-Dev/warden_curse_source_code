@@ -1,0 +1,377 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 0,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "config4.png",
+          "use1Xscale": false,
+          "x": -1,
+          "y": 2
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_sekiro_config",
+          "text": {
+            "fixedValue": "Gameplay"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 83
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_note_configs_change_globally_f",
+          "text": {
+            "fixedValue": "NOTE: configs change globally (for all players)"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 97,
+          "y": 228
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_reset",
+          "image": "a_reset.png",
+          "hoveredImage": "a_reset_hover.png",
+          "onClick": {
+            "name": "CancelRequirementreset"
+          },
+          "x": 94,
+          "y": 104
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_toggle_posture_damage",
+          "text": {
+            "fixedValue": "Toggle Attack Cancel: "
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 59,
+          "y": 122
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_on",
+          "image": "a_on.png",
+          "hoveredImage": "a_on_hover.png",
+          "onClick": {
+            "name": "CRDon"
+          },
+          "x": 70,
+          "y": 134
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_off",
+          "image": "a_off.png",
+          "hoveredImage": "a_off_hover.png",
+          "onClick": {
+            "name": "CRDoff"
+          },
+          "x": 115,
+          "y": 134
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_back",
+          "image": "back.png",
+          "hoveredImage": "back_hover.png",
+          "onClick": {
+            "name": "Backpress"
+          },
+          "x": 13,
+          "y": 221
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "a_gameplay.png",
+          "use1Xscale": false,
+          "x": 42,
+          "y": 68
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_plus_1",
+          "image": "a_plus_1.png",
+          "hoveredImage": "a_plus_1_hover.png",
+          "onClick": {
+            "name": "CRDplus1"
+          },
+          "x": 136,
+          "y": 104
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_plus_01",
+          "image": "a_plus_01.png",
+          "hoveredImage": "a_plus_01_hover.png",
+          "onClick": {
+            "name": "CRDplus01"
+          },
+          "x": 158,
+          "y": 104
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_minus_1",
+          "image": "a_minus_1.png",
+          "hoveredImage": "a_minus_1_hover.png",
+          "onClick": {
+            "name": "CRDminus1"
+          },
+          "x": 72,
+          "y": 104
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_minus_01",
+          "image": "a_minus_01.png",
+          "hoveredImage": "a_minus_01_hover.png",
+          "onClick": {
+            "name": "CRDminus01"
+          },
+          "x": 44,
+          "y": 104
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_cancel_damage_requirement",
+          "text": {
+            "fixedValue": "Cancel Damage requirement:"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 46,
+          "y": 92
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_cancel_damage_requirement1",
+          "text": {
+            "fixedValue": "Cancel Damage Requirement:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_amount_of_damage_needed_to_cance",
+          "text": {
+            "fixedValue": "Amount of damage needed to cancel "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 106
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_an_attack",
+          "text": {
+            "fixedValue": "an attack."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_you_could_also_toggle_attack_can",
+          "text": {
+            "fixedValue": "You could also toggle attack "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 148
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_cancelation",
+          "text": {
+            "fixedValue": "cancelation."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 158
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_display_cancel_requirement",
+          "text": {
+            "fixedValue": "",
+            "name": "DisplayCancelRequirement"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 127
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_kusabimaru_vanilla_combat",
+          "text": {
+            "fixedValue": "Kusabimaru Vanilla Combat"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 48,
+          "y": 152
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_on1",
+          "image": "a_on.png",
+          "hoveredImage": "a_on_hover.png",
+          "onClick": {
+            "name": "VanillaPvpON"
+          },
+          "x": 70,
+          "y": 164
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_off1",
+          "image": "a_off.png",
+          "hoveredImage": "a_off_hover.png",
+          "onClick": {
+            "name": "VanillaPvpOFF"
+          },
+          "x": 115,
+          "y": 164
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_vanilla_fire_mechanics",
+          "text": {
+            "fixedValue": "Vanilla Fire Mechanics"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 54,
+          "y": 182
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_on2",
+          "image": "a_on.png",
+          "hoveredImage": "a_on_hover.png",
+          "onClick": {
+            "name": "VanillaFireON"
+          },
+          "x": 70,
+          "y": 194
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_off2",
+          "image": "a_off.png",
+          "hoveredImage": "a_off_hover.png",
+          "onClick": {
+            "name": "VanillaFireOFF"
+          },
+          "x": 115,
+          "y": 194
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

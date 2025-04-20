@@ -1,0 +1,359 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 1,
+    "height": 1,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "maincover.png",
+          "use1Xscale": false,
+          "x": 35,
+          "y": 3
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_this_book_will_tell_you_how_to_d",
+          "text": {
+            "fixedValue": "This book will tell you"
+          },
+          "color": {
+            "value": -15001056,
+            "falpha": 0.0
+          },
+          "x": 60,
+          "y": 92
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_how_to_do_a_range_of_skills",
+          "text": {
+            "fixedValue": "how to use a range of skills,"
+          },
+          "color": {
+            "value": -15001056,
+            "falpha": 0.0
+          },
+          "x": 61,
+          "y": 101
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_mechanics",
+          "text": {
+            "fixedValue": "mechanics and prosthetic"
+          },
+          "color": {
+            "value": -15001056,
+            "falpha": 0.0
+          },
+          "x": 61,
+          "y": 110
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_tools",
+          "text": {
+            "fixedValue": "tools."
+          },
+          "color": {
+            "value": -15001056,
+            "falpha": 0.0
+          },
+          "x": 60,
+          "y": 119
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_1",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -15001056,
+            "falpha": 0.0
+          },
+          "x": 127,
+          "y": 196
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_2",
+          "text": {
+            "fixedValue": "2"
+          },
+          "color": {
+            "value": -15001056,
+            "falpha": 0.0
+          },
+          "x": 295,
+          "y": 196
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_context",
+          "text": {
+            "fixedValue": "Context"
+          },
+          "color": {
+            "value": -15001056,
+            "falpha": 0.0
+          },
+          "x": 279,
+          "y": 28
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_however_this_book_wont",
+          "text": {
+            "fixedValue": "However this book wont "
+          },
+          "color": {
+            "value": -15001056,
+            "falpha": 0.0
+          },
+          "x": 61,
+          "y": 128
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_cover_descriptions_of",
+          "text": {
+            "fixedValue": "cover the descriptions of"
+          },
+          "color": {
+            "value": -15001056,
+            "falpha": 0.0
+          },
+          "x": 61,
+          "y": 137
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_combart_arts_and_prosthetics",
+          "text": {
+            "fixedValue": "Combart Arts and "
+          },
+          "color": {
+            "value": -15001056,
+            "falpha": 0.0
+          },
+          "x": 61,
+          "y": 146
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_prosthetics",
+          "text": {
+            "fixedValue": "Prosthetics"
+          },
+          "color": {
+            "value": -15001056,
+            "falpha": 0.0
+          },
+          "x": 61,
+          "y": 155
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_rightarrow",
+          "image": "rightarrow.png",
+          "hoveredImage": "rightarrowh.png",
+          "onClick": {
+            "name": "Frontpage"
+          },
+          "x": 391,
+          "y": 92
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pg_1_guarding",
+          "text": {
+            "fixedValue": "Pg 3: Guarding"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 224,
+          "y": 41
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pg_23_posture",
+          "text": {
+            "fixedValue": "Pg 4-5 Posture"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 224,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pg_67_prosthetic_tools",
+          "text": {
+            "fixedValue": "Pg 6-7: Prosthetic Tools"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 224,
+          "y": 66
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pg_8_combat_arts",
+          "text": {
+            "fixedValue": "Pg 8: Combat Arts"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 224,
+          "y": 79
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pg_9_sekiro_gui",
+          "text": {
+            "fixedValue": "Pg 9: Sekiro GUI "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 224,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pg_10_spirit_emblems",
+          "text": {
+            "fixedValue": "Pg 10: Spirit Emblems"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 224,
+          "y": 106
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_additional_tips",
+          "text": {
+            "fixedValue": "Additional Tips:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 224,
+          "y": 130
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_check_your_keybinds_to_ensure",
+          "text": {
+            "fixedValue": "Check your keybinds to ensure"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 224,
+          "y": 140
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_you_know_how_to_change",
+          "text": {
+            "fixedValue": "you know how to change your"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 224,
+          "y": 149
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_art_and_prosthetics",
+          "text": {
+            "fixedValue": "Art and Prosthetics."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 224,
+          "y": 158
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

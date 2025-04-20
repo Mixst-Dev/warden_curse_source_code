@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "warden_curse:block/newwoodtreated",
+    "particle": "warden_curse:block/newwoodtreated"
+  },
+  "render_type": "solid"
+}

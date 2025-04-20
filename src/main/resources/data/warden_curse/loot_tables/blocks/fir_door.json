@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "warden_curse:blocks/fir_door",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "warden_curse:fir_door",
+          "conditions": [
+            {
+              "block": "warden_curse:fir_door",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

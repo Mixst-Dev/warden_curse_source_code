@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "warden_curse:item/shinobi_axe_of_the_monkey"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/flame_spear",
+  "textures": {
+    "2": "warden_curse:block/leaping_fire_texture",
+    "particle": "warden_curse:item/spear"
+  }
+}

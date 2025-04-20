@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "warden_curse:cleave_spear",
+    "warden_curse:leaping_fire",
+    "warden_curse:sparking_axe",
+    "warden_curse:lazulite_axe",
+    "warden_curse:loaded_axe",
+    "warden_curse:prosthetic_glock_item"
+  ]
+}

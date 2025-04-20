@@ -1,0 +1,26 @@
+{
+  "_fv": 60,
+  "_type": "structure",
+  "definition": {
+    "structure": "ashina1",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      }
+    ],
+    "spacing": 11,
+    "separation": 8,
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:AshinaSnowyMountains"
+      }
+    ],
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "terrainAdaptation": "beard_box",
+    "generationStep": "SURFACE_STRUCTURES",
+    "size": 1,
+    "maxDistanceFromCenter": 64,
+    "jigsawPools": []
+  }
+}

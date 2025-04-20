@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/sparkingaxe",
+  "textures": {
+    "0": "warden_curse:block/sparklingeaxe",
+    "particle": "warden_curse:item/axe"
+  }
+}

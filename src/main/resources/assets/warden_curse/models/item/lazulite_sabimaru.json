@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/lazulite_sabimaru",
+  "textures": {
+    "0": "warden_curse:block/lazulite_sabimaru",
+    "particle": "warden_curse:item/sord"
+  }
+}

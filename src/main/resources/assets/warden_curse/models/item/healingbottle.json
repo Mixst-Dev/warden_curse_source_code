@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/healinggourd",
+  "textures": {
+    "0": "warden_curse:block/healinggord",
+    "particle": "warden_curse:item/damn"
+  }
+}

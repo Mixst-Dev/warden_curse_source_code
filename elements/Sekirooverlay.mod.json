@@ -1,0 +1,513 @@
+{
+  "_fv": 60,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "placeholder.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Sekiroshow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 149
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "shadowrush.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Shadowrushshow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 382,
+          "y": 195
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "sakuradance.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Sakurashow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 382,
+          "y": 195
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ashinacross.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Ashinacrossshow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 382,
+          "y": 195
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "dragonflash.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Dragonflash"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 382,
+          "y": 195
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "spiralcloudpassage.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Spiralcloudpassageshow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 382,
+          "y": 195
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "onemind.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Onemindshow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 382,
+          "y": 195
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "mortaldraw.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Mortaldrawshow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 382,
+          "y": 195
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "articon1.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Artdis1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 380,
+          "y": 181
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "articon2.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Artdis2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 380,
+          "y": 181
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "articon3.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Artdis3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 380,
+          "y": 181
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "articon4.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Artdis4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 380,
+          "y": 181
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "articon5.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Artdis5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 380,
+          "y": 181
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "articon6.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Artdis6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 380,
+          "y": 181
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "articon7.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Artdis7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 380,
+          "y": 181
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "placeholder4.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Sekiroshow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 199
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "sparkingaxe2.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Sparkingaxedisplay"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 203
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "spear2gui.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Speardisplay"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 203
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "leapingspear2.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Firespeardisplay"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 203
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "firevent3gui.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "FlameVentDisplay"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 203
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lazulitevent2.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "LazuliteVentDisplay"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 203
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cursedvent2.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "CursedVentDisplay"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 203
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "shurikensgauge2.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "ShurikenDisplay"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 203
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lazushuriken.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "LazuliteShurikenDisplay"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 203
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "shinobifirec2.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "FirecrackerShow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 203
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "longspark2.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "LongSparkShow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 203
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "purplefume2.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PurpleFumeShow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 203
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lazuliteaxe2.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Lazuliteaxedisplay"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 203
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "loaded_axe.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "LoadedAxeShow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 203
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "mistraven2.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "MistRavenShow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 348,
+          "y": 202
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "frame.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Sekiroshow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 199
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_emblemtest",
+          "text": {
+            "fixedValue": "",
+            "name": "Emblemtest"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "Sekiroshow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 332,
+          "y": 225
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "emblem21.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Sekiroshow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 319,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "whirlwind.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Whirlwindshow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 382,
+          "y": 195
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "floatingpassagegui.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "FloatingPassageShow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 382,
+          "y": 195
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ichimonji.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IchimonjiShow"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 382,
+          "y": 195
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_ceremonialvariableshow",
+          "text": {
+            "fixedValue": "",
+            "name": "Ceremonialvariableshow"
+          },
+          "color": {
+            "value": -52429,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "CeremonialToggle"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 327,
+          "y": 213
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

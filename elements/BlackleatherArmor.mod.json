@@ -1,0 +1,92 @@
+{
+  "_fv": 60,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "blackleather_head",
+    "enableBody": true,
+    "textureBody": "blackleather_body",
+    "enableLeggings": true,
+    "textureLeggings": "blackleather_leggings",
+    "enableBoots": true,
+    "textureBoots": "blackleather_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Outfits"
+    },
+    "armorTextureFile": "blackleather",
+    "helmetName": "Blackleather Helmet",
+    "bodyName": "§7Shadow Leather",
+    "leggingsName": "§7Shadow Leather",
+    "bootsName": "§7Shadow Leather",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": [
+        "§b+ §bx3 §bspeed!"
+      ]
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": [
+        "§b+ §bx3 §bspeed!"
+      ]
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": [
+        "§b+ §bx3 §bspeed!"
+      ]
+    },
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Modelblackleather",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "leather1.png",
+    "leggingsModelName": "Modelblackleather",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "leather1.png",
+    "bootsModelName": "Modelblackleather",
+    "bootsModelPartL": "Leftfoot",
+    "bootsModelPartR": "Rightfoot",
+    "bootsModelTexture": "leather1.png",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "helmetPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bodyPiglinNeutral": {
+      "fixedValue": false
+    },
+    "leggingsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bootsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "maxDamage": 70,
+    "damageValueHelmet": 2,
+    "damageValueBody": 7,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 3,
+    "enchantability": 12,
+    "toughness": 4.0,
+    "knockbackResistance": 0.12,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

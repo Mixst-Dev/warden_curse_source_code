@@ -1,0 +1,25 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.spearswipe",
+				"texture_width": 496,
+				"texture_height": 496,
+				"visible_bounds_width": 11,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "swipe",
+					"pivot": [0, 0, -15],
+					"rotation": [0, 15, 5],
+					"cubes": [
+						{"origin": [-61, 16, -76], "size": [122, 0, 122], "pivot": [0, 16, -15], "rotation": [0, 0, -180], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

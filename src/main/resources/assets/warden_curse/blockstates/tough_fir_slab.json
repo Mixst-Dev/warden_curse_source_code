@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "warden_curse:block/tough_fir_slab"
+    },
+    "type=top": {
+      "model": "warden_curse:block/tough_fir_slab_top"
+    },
+    "type=double": {
+      "model": "warden_curse:block/tough_fir_slab_full"
+    }
+  }
+}

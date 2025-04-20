@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "warden_curse:tough_leather"
+    },
+    "b": {
+      "item": "minecraft:iron_chestplate"
+    }
+  },
+  "result": {
+    "item": "warden_curse:sekiroarmor_2_chestplate",
+    "count": 1
+  }
+}

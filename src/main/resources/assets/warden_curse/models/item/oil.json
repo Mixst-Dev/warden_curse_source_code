@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/oil_glass",
+  "textures": {
+    "0": "warden_curse:block/oil_texture",
+    "particle": "warden_curse:item/ui"
+  }
+}

@@ -1,0 +1,24 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.whirlwind_2",
+				"texture_width": 272,
+				"texture_height": 272,
+				"visible_bounds_width": 7,
+				"visible_bounds_height": 4.5,
+				"visible_bounds_offset": [0, 1.75, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-38, 21, -53], "size": [76, 0, 52], "pivot": [0, 24, -24], "rotation": [-11.3137, 11.00841, -29.13144], "uv": [1, 1]}
+					]
+				}
+			]
+		}
+	]
+}

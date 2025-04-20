@@ -1,0 +1,15 @@
+{
+  "_fv": 60,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "A",
+    "keyBindingName": "A",
+    "keyBindingCategoryKey": "donttouch",
+    "onKeyPressed": {
+      "name": "Apress"
+    },
+    "onKeyReleased": {
+      "name": "Arelease"
+    }
+  }
+}

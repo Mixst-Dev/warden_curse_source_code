@@ -1,0 +1,726 @@
+{
+  "backstep": {
+    "subtitle": "subtitles.backstep",
+    "sounds": [
+      {
+        "name": "warden_curse:fast",
+        "stream": false
+      }
+    ]
+  },
+  "woosh": {
+    "subtitle": "subtitles.woosh",
+    "sounds": [
+      {
+        "name": "warden_curse:windwoosh",
+        "stream": false
+      }
+    ]
+  },
+  "stab": {
+    "subtitle": "subtitles.stab",
+    "sounds": [
+      {
+        "name": "warden_curse:stab",
+        "stream": false
+      }
+    ]
+  },
+  "fireflash": {
+    "subtitle": "subtitles.fireflash",
+    "sounds": [
+      {
+        "name": "warden_curse:fireflash",
+        "stream": false
+      }
+    ]
+  },
+  "denied": {
+    "subtitle": "subtitles.denied",
+    "sounds": [
+      {
+        "name": "warden_curse:deny",
+        "stream": false
+      }
+    ]
+  },
+  "woosh5": {
+    "subtitle": "subtitles.woosh5",
+    "sounds": [
+      {
+        "name": "warden_curse:wooshies5",
+        "stream": false
+      }
+    ]
+  },
+  "swordswing": {
+    "subtitle": "subtitles.swordswing",
+    "sounds": [
+      {
+        "name": "warden_curse:swing1_1",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:swing2_1",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:swing3",
+        "stream": false
+      }
+    ]
+  },
+  "healing": {
+    "subtitle": "subtitles.healing",
+    "sounds": [
+      {
+        "name": "warden_curse:healing",
+        "stream": false
+      }
+    ]
+  },
+  "guard2": {
+    "subtitle": "subtitles.guard2",
+    "sounds": [
+      {
+        "name": "warden_curse:guard1",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:guard2",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:guard3",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:guard4",
+        "stream": false
+      }
+    ]
+  },
+  "vent": {
+    "subtitle": "subtitles.vent",
+    "sounds": [
+      {
+        "name": "warden_curse:vent1",
+        "stream": false
+      }
+    ]
+  },
+  "ashinacross": {
+    "subtitle": "subtitles.ashinacross",
+    "sounds": [
+      {
+        "name": "warden_curse:ashinacross",
+        "stream": false
+      }
+    ]
+  },
+  "parrying": {
+    "subtitle": "subtitles.parrying",
+    "sounds": [
+      {
+        "name": "warden_curse:parry2rem",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:parry3remasterd",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:parry4remaster",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:parry5remasterd",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:parry6remasterd",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:parryremaster",
+        "stream": false
+      }
+    ]
+  },
+  "dragonflash2": {
+    "subtitle": "subtitles.dragonflash2",
+    "sounds": [
+      {
+        "name": "warden_curse:dragonflashremasterd",
+        "stream": false
+      }
+    ]
+  },
+  "chargeddragonflash": {
+    "subtitle": "subtitles.chargeddragonflash",
+    "sounds": [
+      {
+        "name": "warden_curse:chargeddragonremasterd",
+        "stream": false
+      }
+    ]
+  },
+  "sakuradance": {
+    "subtitle": "subtitles.sakuradance",
+    "sounds": [
+      {
+        "name": "warden_curse:sakuradance",
+        "stream": false
+      }
+    ]
+  },
+  "onemind": {
+    "subtitle": "subtitles.onemind",
+    "sounds": [
+      {
+        "name": "warden_curse:onemind",
+        "stream": false
+      }
+    ]
+  },
+  "blocking": {
+    "subtitle": "subtitles.blocking",
+    "sounds": [
+      {
+        "name": "warden_curse:blocking",
+        "stream": false
+      }
+    ]
+  },
+  "injured": {
+    "subtitle": "subtitles.injured",
+    "sounds": [
+      {
+        "name": "warden_curse:attacked",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:sword2",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:sword3",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:sword4",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:sword5",
+        "stream": false
+      }
+    ]
+  },
+  "axeswing": {
+    "subtitle": "subtitles.axeswing",
+    "sounds": [
+      {
+        "name": "warden_curse:swingaxe1",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:swingaxe2",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:swingaxe3",
+        "stream": false
+      }
+    ]
+  },
+  "mortaldraw": {
+    "subtitle": "subtitles.mortaldraw",
+    "sounds": [
+      {
+        "name": "warden_curse:mortaldraw",
+        "stream": false
+      }
+    ]
+  },
+  "fireexplosion": {
+    "subtitle": "subtitles.fireexplosion",
+    "sounds": [
+      {
+        "name": "warden_curse:fire1111",
+        "stream": false
+      }
+    ]
+  },
+  "debris": {
+    "subtitle": "subtitles.debris",
+    "sounds": [
+      {
+        "name": "warden_curse:rubeub",
+        "stream": false
+      }
+    ]
+  },
+  "spearwoosh": {
+    "subtitle": "subtitles.spearwoosh",
+    "sounds": [
+      {
+        "name": "warden_curse:spear1",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:spear2",
+        "stream": false
+      }
+    ]
+  },
+  "spearswing": {
+    "subtitle": "subtitles.spearswing",
+    "sounds": [
+      {
+        "name": "warden_curse:swipespear1",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:swipespear2",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:swipespear3",
+        "stream": false
+      }
+    ]
+  },
+  "drawspear": {
+    "subtitle": "subtitles.drawspear",
+    "sounds": [
+      {
+        "name": "warden_curse:draw",
+        "stream": false
+      }
+    ]
+  },
+  "shinobuexecution": {
+    "subtitle": "subtitles.shinobuexecution",
+    "sounds": [
+      {
+        "name": "warden_curse:shinobue",
+        "stream": true
+      }
+    ]
+  },
+  "mortalkill": {
+    "subtitle": "subtitles.mortalkill",
+    "sounds": [
+      {
+        "name": "warden_curse:deathblow",
+        "stream": false
+      }
+    ]
+  },
+  "deathblowstab": {
+    "subtitle": "subtitles.deathblowstab",
+    "sounds": [
+      {
+        "name": "warden_curse:deathstab",
+        "stream": false
+      }
+    ]
+  },
+  "deathspray": {
+    "subtitle": "subtitles.deathspray",
+    "sounds": [
+      {
+        "name": "warden_curse:deathspray",
+        "stream": false
+      }
+    ]
+  },
+  "attackimpact": {
+    "subtitle": "subtitles.attackimpact",
+    "sounds": [
+      {
+        "name": "warden_curse:impact1",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:impact2",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:impact3",
+        "stream": false
+      }
+    ]
+  },
+  "sekiro_alert": {
+    "subtitle": "subtitles.sekiro_alert",
+    "sounds": [
+      {
+        "name": "warden_curse:alerted",
+        "stream": false
+      }
+    ]
+  },
+  "whirlwind_slash": {
+    "subtitle": "subtitles.whirlwind_slash",
+    "sounds": [
+      {
+        "name": "warden_curse:whirlwind2",
+        "stream": false
+      }
+    ]
+  },
+  "fastclothmovement": {
+    "subtitle": "subtitles.fastclothmovement",
+    "sounds": [
+      {
+        "name": "warden_curse:shurikenthrow1",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:shurikenthrow2",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:shurikenthrow3",
+        "stream": false
+      }
+    ]
+  },
+  "guarding_cloth": {
+    "subtitle": "subtitles.guarding_cloth",
+    "sounds": [
+      {
+        "name": "warden_curse:guardcloth",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:guardcloth2",
+        "stream": false
+      }
+    ]
+  },
+  "shuriken_throw": {
+    "subtitle": "subtitles.shuriken_throw",
+    "sounds": [
+      {
+        "name": "warden_curse:shurikenthrow",
+        "stream": false
+      }
+    ]
+  },
+  "shuriken_impact": {
+    "subtitle": "subtitles.shuriken_impact",
+    "sounds": [
+      {
+        "name": "warden_curse:shurikenimpact",
+        "stream": false
+      }
+    ]
+  },
+  "perilous": {
+    "subtitle": "subtitles.perilous",
+    "sounds": [
+      {
+        "name": "warden_curse:perilous",
+        "stream": false
+      }
+    ]
+  },
+  "metal_shing": {
+    "subtitle": "subtitles.metal_shing",
+    "sounds": [
+      {
+        "name": "warden_curse:shing",
+        "stream": false
+      }
+    ]
+  },
+  "pms": {
+    "subtitle": "subtitles.pms",
+    "sounds": [
+      {
+        "name": "warden_curse:dialouge1",
+        "stream": false
+      }
+    ]
+  },
+  "firecracker": {
+    "subtitle": "subtitles.firecracker",
+    "sounds": [
+      {
+        "name": "warden_curse:firecrackers",
+        "stream": false
+      }
+    ]
+  },
+  "draw_spear": {
+    "subtitle": "subtitles.draw_spear",
+    "sounds": [
+      {
+        "name": "warden_curse:draw_spear_4",
+        "stream": false
+      }
+    ]
+  },
+  "retract_prosthetic": {
+    "subtitle": "subtitles.retract_prosthetic",
+    "sounds": [
+      {
+        "name": "warden_curse:retract_prosthetic",
+        "stream": false
+      }
+    ]
+  },
+  "spear_swipe": {
+    "subtitle": "subtitles.spear_swipe",
+    "sounds": [
+      {
+        "name": "warden_curse:3",
+        "stream": false
+      }
+    ]
+  },
+  "draw_fire_spear": {
+    "subtitle": "subtitles.draw_fire_spear",
+    "sounds": [
+      {
+        "name": "warden_curse:drawfire",
+        "stream": false
+      }
+    ]
+  },
+  "fire_impact": {
+    "subtitle": "subtitles.fire_impact",
+    "sounds": [
+      {
+        "name": "warden_curse:fireimpacts",
+        "stream": false
+      }
+    ]
+  },
+  "flaming_cleave": {
+    "subtitle": "subtitles.flaming_cleave",
+    "sounds": [
+      {
+        "name": "warden_curse:flaming_cleave",
+        "stream": false
+      }
+    ]
+  },
+  "ako": {
+    "subtitle": "subtitles.ako",
+    "sounds": [
+      {
+        "name": "warden_curse:ako",
+        "stream": false
+      }
+    ]
+  },
+  "yashariku": {
+    "subtitle": "subtitles.yashariku",
+    "sounds": [
+      {
+        "name": "warden_curse:yashariku_1",
+        "stream": false
+      }
+    ]
+  },
+  "gokan": {
+    "subtitle": "subtitles.gokan",
+    "sounds": [
+      {
+        "name": "warden_curse:gokan_1",
+        "stream": false
+      }
+    ]
+  },
+  "divine_confetti": {
+    "subtitle": "subtitles.divine_confetti",
+    "sounds": [
+      {
+        "name": "warden_curse:divineconfetti",
+        "stream": false
+      }
+    ]
+  },
+  "ceremonial": {
+    "subtitle": "subtitles.ceremonial",
+    "sounds": [
+      {
+        "name": "warden_curse:ceremonial",
+        "stream": false
+      }
+    ]
+  },
+  "ungo": {
+    "subtitle": "subtitles.ungo",
+    "sounds": [
+      {
+        "name": "warden_curse:ungo",
+        "stream": false
+      }
+    ]
+  },
+  "draw_axe": {
+    "subtitle": "subtitles.draw_axe",
+    "sounds": [
+      {
+        "name": "warden_curse:draw_axe_1",
+        "stream": false
+      }
+    ]
+  },
+  "retract_axe": {
+    "subtitle": "subtitles.retract_axe",
+    "sounds": [
+      {
+        "name": "warden_curse:retract_axe_1",
+        "stream": false
+      }
+    ]
+  },
+  "sekiro_explosion": {
+    "subtitle": "subtitles.sekiro_explosion",
+    "sounds": [
+      {
+        "name": "warden_curse:explosion",
+        "stream": false
+      }
+    ]
+  },
+  "mortal2": {
+    "subtitle": "subtitles.mortal2",
+    "sounds": [
+      {
+        "name": "warden_curse:mortal2",
+        "stream": false
+      }
+    ]
+  },
+  "laz_draw_axe": {
+    "subtitle": "subtitles.laz_draw_axe",
+    "sounds": [
+      {
+        "name": "warden_curse:laz_axe_draw",
+        "stream": false
+      }
+    ]
+  },
+  "lazulite_explosion": {
+    "subtitle": "subtitles.lazulite_explosion",
+    "sounds": [
+      {
+        "name": "warden_curse:laz_explosion",
+        "stream": false
+      }
+    ]
+  },
+  "pellet": {
+    "subtitle": "subtitles.pellet",
+    "sounds": [
+      {
+        "name": "warden_curse:pellet",
+        "stream": false
+      }
+    ]
+  },
+  "environment1": {
+    "subtitle": "subtitles.environment1",
+    "sounds": [
+      {
+        "name": "warden_curse:biome1_1",
+        "stream": false
+      }
+    ]
+  },
+  "generic_draw": {
+    "subtitle": "subtitles.generic_draw",
+    "sounds": [
+      {
+        "name": "warden_curse:generic_drawaxe",
+        "stream": false
+      }
+    ]
+  },
+  "axe_slam_2": {
+    "subtitle": "subtitles.axe_slam_2",
+    "sounds": [
+      {
+        "name": "warden_curse:generic_axe_slam",
+        "stream": false
+      }
+    ]
+  },
+  "mss": {
+    "subtitle": "subtitles.mss",
+    "sounds": [
+      {
+        "name": "warden_curse:sculkshard",
+        "stream": false
+      }
+    ]
+  },
+  "guarding": {
+    "subtitle": "subtitles.guarding",
+    "sounds": [
+      {
+        "name": "warden_curse:guarding1",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:guarding2",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:guarding3",
+        "stream": false
+      }
+    ]
+  },
+  "kusabimaru": {
+    "subtitle": "subtitles.kusabimaru",
+    "sounds": [
+      {
+        "name": "warden_curse:three",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:two",
+        "stream": false
+      },
+      {
+        "name": "warden_curse:one",
+        "stream": false
+      }
+    ]
+  },
+  "glock_load": {
+    "subtitle": "subtitles.glock_load",
+    "sounds": [
+      {
+        "name": "warden_curse:reload1",
+        "stream": false
+      }
+    ]
+  },
+  "sekirogunshot": {
+    "subtitle": "subtitles.sekirogunshot",
+    "sounds": [
+      {
+        "name": "warden_curse:shot",
+        "stream": false
+      }
+    ]
+  },
+  "ichimonji": {
+    "subtitle": "subtitles.ichimonji",
+    "sounds": [
+      {
+        "name": "warden_curse:ichimonji",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "warden_curse:block/magnetite_ore",
+    "up": "warden_curse:block/magnetite_ore",
+    "north": "warden_curse:block/magnetite_ore",
+    "east": "warden_curse:block/magnetite_ore",
+    "south": "warden_curse:block/magnetite_ore",
+    "west": "warden_curse:block/magnetite_ore",
+    "particle": "warden_curse:block/magnetite_ore"
+  },
+  "render_type": "solid"
+}

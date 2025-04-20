@@ -1,0 +1,9 @@
+{
+  "parent": "warden_curse:custom/prosthetic_anvil",
+  "textures": {
+    "all": "warden_curse:block/prosthetic_anvil",
+    "particle": "warden_curse:block/prosthetic_anvil",
+    "0": "warden_curse:block/prosthetic_anvil"
+  },
+  "render_type": "cutout"
+}

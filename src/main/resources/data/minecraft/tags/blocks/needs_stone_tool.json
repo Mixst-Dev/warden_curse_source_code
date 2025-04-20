@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "warden_curse:metalic_frame",
+    "warden_curse:wall_damaged",
+    "warden_curse:wall_block_damaged",
+    "warden_curse:wall_block",
+    "warden_curse:tough_shale",
+    "warden_curse:large_cobblestone_slab",
+    "warden_curse:large_cobble_stone_stairs",
+    "warden_curse:large_cobblestone"
+  ]
+}

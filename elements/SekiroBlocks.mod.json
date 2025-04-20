@@ -1,0 +1,11 @@
+{
+  "_fv": 60,
+  "_type": "tab",
+  "definition": {
+    "name": "Sekiro Blocks",
+    "icon": {
+      "value": "CUSTOM:Tough_FirLog"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,61 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.1onemind",
+				"texture_width": 752,
+				"texture_height": 752,
+				"visible_bounds_width": 22,
+				"visible_bounds_height": 12,
+				"visible_bounds_offset": [0, 2, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "slash1",
+					"parent": "head",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-65, 1, -111], "size": [130, 0, 112], "uv": [260, 112]}
+					]
+				},
+				{
+					"name": "slash2",
+					"parent": "head",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-65, 1, -111], "size": [130, 0, 112], "uv": [260, 0]}
+					]
+				},
+				{
+					"name": "slash3",
+					"parent": "head",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-65, 1, -111], "size": [130, 0, 112], "uv": [0, 224]}
+					]
+				},
+				{
+					"name": "slash4",
+					"parent": "head",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-65, 1, -111], "size": [130, 0, 112], "uv": [0, 112]}
+					]
+				},
+				{
+					"name": "slash5",
+					"parent": "head",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-65, 1, -111], "size": [130, 0, 112], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

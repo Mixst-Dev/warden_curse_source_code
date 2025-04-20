@@ -1,0 +1,15 @@
+{
+  "_fv": 60,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "W",
+    "keyBindingName": "W",
+    "keyBindingCategoryKey": "donttouch",
+    "onKeyPressed": {
+      "name": "Wpress"
+    },
+    "onKeyReleased": {
+      "name": "Wrelease"
+    }
+  }
+}

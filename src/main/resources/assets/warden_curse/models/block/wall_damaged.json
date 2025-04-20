@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "warden_curse:block/walldamaged",
+    "up": "warden_curse:block/walldamaged",
+    "north": "warden_curse:block/walldamaged",
+    "east": "warden_curse:block/walldamaged",
+    "south": "warden_curse:block/walldamaged",
+    "west": "warden_curse:block/walldamaged",
+    "particle": "warden_curse:block/walldamaged"
+  },
+  "render_type": "solid"
+}

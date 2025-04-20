@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/shrieking_glass",
+  "textures": {
+    "0": "warden_curse:block/shrieking_glass",
+    "particle": "warden_curse:item/misfortunes"
+  }
+}

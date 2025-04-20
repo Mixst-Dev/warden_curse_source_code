@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "warden_curse:block/newwoodtreated",
+    "top": "warden_curse:block/newwoodtreated",
+    "side": "warden_curse:block/newwoodtreated"
+  },
+  "render_type": "solid"
+}

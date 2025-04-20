@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/cursedkusabimaru",
+  "textures": {
+    "3": "warden_curse:block/cursedkusa",
+    "particle": "warden_curse:item/mbladenormal"
+  }
+}

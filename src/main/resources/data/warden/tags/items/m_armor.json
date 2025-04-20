@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "warden_curse:sekiroarmor_2_chestplate",
+    "warden_curse:sekiroarmor_2_leggings",
+    "warden_curse:sekiroarmor_2_boots",
+    "warden_curse:blackleather_armor_chestplate",
+    "warden_curse:blackleather_armor_leggings",
+    "warden_curse:blackleather_armor_boots",
+    "warden_curse:sekrio_gear_custom_leggings",
+    "warden_curse:sekrio_gear_custom_boots",
+    "warden_curse:sekiro_gear_custom_1_chestplate",
+    "warden_curse:sekiro_gear_custom_2_chestplate",
+    "warden_curse:sekiro_gear_custom_3_chestplate",
+    "warden_curse:sekiro_custom_gear_4_chestplate",
+    "warden_curse:igrizsiro_chestplate",
+    "warden_curse:igrizsiro_leggings",
+    "warden_curse:igrizsiro_boots",
+    "warden_curse:sekiroarmor_chestplate",
+    "warden_curse:sekiroarmor_leggings",
+    "warden_curse:sekiroarmor_boots",
+    "warden_curse:shura_chestplate",
+    "warden_curse:shura_leggings",
+    "warden_curse:shura_boots"
+  ]
+}

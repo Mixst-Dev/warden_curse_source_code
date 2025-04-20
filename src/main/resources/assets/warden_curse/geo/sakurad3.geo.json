@@ -1,0 +1,29 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.sakurad3",
+				"texture_width": 512,
+				"texture_height": 512,
+				"visible_bounds_width": 10,
+				"visible_bounds_height": 6,
+				"visible_bounds_offset": [0, 2, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "sakura1",
+					"parent": "head",
+					"pivot": [0, 0, 9],
+					"cubes": [
+						{"origin": [0.50726, -48.74421, -94.08286], "size": [0, 142, 142], "pivot": [2.50726, 23.25579, -23.08286], "rotation": [1.54339, 27.32608, -87.39751], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+  "_fv": 60,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "D",
+    "keyBindingName": "D",
+    "keyBindingCategoryKey": "donttouch",
+    "onKeyPressed": {
+      "name": "Dpress"
+    },
+    "onKeyReleased": {
+      "name": "Drelease"
+    }
+  }
+}

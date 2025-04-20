@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "bark",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Tough_FirLog"
+      },
+      {
+        "value": "CUSTOM:Tough_FirLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Tough_FirLog"
+      },
+      {
+        "value": "CUSTOM:Tough_FirLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Tough_FirWood"
+    },
+    "name": "tough_fir_wood_recipe",
+    "namespace": "mod"
+  }
+}

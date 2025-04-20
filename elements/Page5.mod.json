@@ -1,0 +1,389 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 1,
+    "height": 1,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_leftarrow",
+          "image": "leftarrow.png",
+          "hoveredImage": "leftarrowh.png",
+          "onClick": {
+            "name": "Openpage4"
+          },
+          "x": 19,
+          "y": 95
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "page5.png",
+          "use1Xscale": false,
+          "x": 35,
+          "y": 3
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_this_gui_shows_your",
+          "text": {
+            "fixedValue": "This GUI shows your order"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 57,
+          "y": 108
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_of_artsprosthetics",
+          "text": {
+            "fixedValue": "of Arts/Prosthetics and "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 57,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_your_stored_spirit_emblems",
+          "text": {
+            "fixedValue": "Your stored Spirit Emblems"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 57,
+          "y": 124
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_you_dont_put_items_there",
+          "text": {
+            "fixedValue": "(You DONT put items there)"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 56,
+          "y": 132
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_the_right_side_are_the",
+          "text": {
+            "fixedValue": "The Right side are the"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 57,
+          "y": 148
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_combat_arts",
+          "text": {
+            "fixedValue": "Combat Arts."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 57,
+          "y": 156
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_the_left_side_are_the",
+          "text": {
+            "fixedValue": "The left side are the "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 57,
+          "y": 168
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_prosthetic_tools",
+          "text": {
+            "fixedValue": "Prosthetic Tools."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 57,
+          "y": 176
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_spirit_emblems",
+          "text": {
+            "fixedValue": "Spirit Emblems"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 262,
+          "y": 26
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_spirit_emblems_are_important",
+          "text": {
+            "fixedValue": "Spirit Emblems are important"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 42
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_as_they_are_used_to_execute",
+          "text": {
+            "fixedValue": "as they are used to execute"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 50
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_combat_arts_or_prosthetics",
+          "text": {
+            "fixedValue": "Combat Arts or Prosthetics"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 58
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_monster_entities_have_a",
+          "text": {
+            "fixedValue": "Monster entities have a"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 70
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_50_of_dropping_one_upon_death",
+          "text": {
+            "fixedValue": "50% of dropping one upon death"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 78
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_regenerating_spirit_emblems",
+          "text": {
+            "fixedValue": "Regenerating Spirit Emblems"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 94
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_is_done_by_holding_the",
+          "text": {
+            "fixedValue": "is done by holding the"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 104
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_regenerate_emblems",
+          "text": {
+            "fixedValue": "\"Regenerate Emblems\" keybind"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 113
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_holding_it_for_5_seconds_will",
+          "text": {
+            "fixedValue": "Holding it for 5 seconds "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 122
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_without_taking_damage_will",
+          "text": {
+            "fixedValue": "without taking damage will"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 224,
+          "y": 131
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_regenerate_your_30_emblems_back",
+          "text": {
+            "fixedValue": "regenerate your 30 emblems "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 140
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_back",
+          "text": {
+            "fixedValue": "back."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 224,
+          "y": 150
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_9",
+          "text": {
+            "fixedValue": "9"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 126,
+          "y": 197
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_10",
+          "text": {
+            "fixedValue": "10"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 291,
+          "y": 196
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

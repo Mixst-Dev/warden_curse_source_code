@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "loaded_axe"
+      },
+      "name": "default"
+    }
+  }
+}

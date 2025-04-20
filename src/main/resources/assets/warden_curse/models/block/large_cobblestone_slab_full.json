@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "warden_curse:block/tough_shale_wall",
+    "top": "warden_curse:block/tough_shale_wall",
+    "side": "warden_curse:block/tough_shale_wall"
+  },
+  "render_type": "solid"
+}

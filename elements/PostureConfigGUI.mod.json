@@ -1,0 +1,265 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 0,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "config4.png",
+          "use1Xscale": false,
+          "x": -1,
+          "y": 2
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_sekiro_config",
+          "text": {
+            "fixedValue": "Posture Settings"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 83
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_note_configs_change_globally_f",
+          "text": {
+            "fixedValue": "NOTE: configs change globally (for all players)"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 97,
+          "y": 228
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_this_changes_how_powerful_combat",
+          "text": {
+            "fixedValue": "You can either posture on or off"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 96
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_reset",
+          "image": "a_reset.png",
+          "hoveredImage": "a_reset_hover.png",
+          "onClick": {
+            "name": "PostureReset"
+          },
+          "x": 94,
+          "y": 99
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_minus_1",
+          "image": "a_minus_1.png",
+          "hoveredImage": "a_minus_1_hover.png",
+          "onClick": {
+            "name": "ConfigPostureMinus1"
+          },
+          "x": 72,
+          "y": 99
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_plus_1",
+          "image": "a_plus_1.png",
+          "hoveredImage": "a_plus_1_hover.png",
+          "onClick": {
+            "name": "ConfigPosturePlus1"
+          },
+          "x": 136,
+          "y": 99
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "a_posture.png",
+          "use1Xscale": false,
+          "x": 42,
+          "y": 68
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_in_this_config",
+          "text": {
+            "fixedValue": "in this config."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 229,
+          "y": 107
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_you_could_also_decrease_posture",
+          "text": {
+            "fixedValue": "You could also decrease posture"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 230,
+          "y": 118
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_damage_by_a_certain_percentage",
+          "text": {
+            "fixedValue": "damage by a certain percentage"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 230,
+          "y": 129
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_plus_10",
+          "image": "a_plus_10.png",
+          "hoveredImage": "a_plus_10_hover.png",
+          "onClick": {
+            "name": "ConfigPosturePlus10"
+          },
+          "x": 158,
+          "y": 99
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_minus_10",
+          "image": "a_minus_10.png",
+          "hoveredImage": "a_minus_10_hover.png",
+          "onClick": {
+            "name": "ConfigPostureMinus10"
+          },
+          "x": 44,
+          "y": 99
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_toggle_posture_damage",
+          "text": {
+            "fixedValue": "Toggle Posture Damage: "
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 59,
+          "y": 124
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_on",
+          "image": "a_on.png",
+          "hoveredImage": "a_on_hover.png",
+          "onClick": {
+            "name": "PostureON"
+          },
+          "x": 70,
+          "y": 137
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a_off",
+          "image": "a_off.png",
+          "hoveredImage": "a_off_hover.png",
+          "onClick": {
+            "name": "PostureOff"
+          },
+          "x": 115,
+          "y": 137
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_posturemultiplyerdisplay",
+          "text": {
+            "fixedValue": "",
+            "name": "Posturemultiplyerdisplay"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 230,
+          "y": 172
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_back",
+          "image": "back.png",
+          "hoveredImage": "back_hover.png",
+          "onClick": {
+            "name": "Backpress"
+          },
+          "x": 13,
+          "y": 197
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

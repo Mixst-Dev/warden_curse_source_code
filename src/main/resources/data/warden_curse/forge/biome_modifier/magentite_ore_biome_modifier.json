@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "warden_curse:magentite_ore",
+  "step": "underground_ores"
+}

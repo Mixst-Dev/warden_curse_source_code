@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/lazuliteaxe",
+  "textures": {
+    "0": "warden_curse:block/lazuliteaxe",
+    "particle": "warden_curse:item/lazuliteaxe2"
+  }
+}

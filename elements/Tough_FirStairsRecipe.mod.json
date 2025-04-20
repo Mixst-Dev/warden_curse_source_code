@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "wooden_stairs",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Tough_FirPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Tough_FirPlanks"
+      },
+      {
+        "value": "CUSTOM:Tough_FirPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Tough_FirPlanks"
+      },
+      {
+        "value": "CUSTOM:Tough_FirPlanks"
+      },
+      {
+        "value": "CUSTOM:Tough_FirPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Tough_FirStairs"
+    },
+    "name": "tough_fir_stairs_recipe",
+    "namespace": "mod"
+  }
+}

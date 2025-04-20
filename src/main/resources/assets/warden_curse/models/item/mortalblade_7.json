@@ -1,0 +1,7 @@
+{
+  "parent": "warden_curse:custom/spear1",
+  "textures": {
+    "0": "warden_curse:block/spear1",
+    "particle": "warden_curse:item/spear3"
+  }
+}
